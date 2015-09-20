@@ -1,0 +1,19 @@
+{{ template "partials/head.html" . }}
+{{ template "partials/header.html" . }}
+
+  <div class="content container">
+    <h1 class="title">Blog Posts</h1>
+    <ul class="posts">
+      {{ range .Data.Pages }}
+        <li>
+          <span>
+            <time>[ {{ .Date.Format "2006-01-02" }} ] </time>
+            {{if .Draft}}[draft] {{end}}
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </span>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+
+{{ template "partials/footer.html" . }}

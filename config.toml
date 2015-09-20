@@ -1,0 +1,20 @@
+baseurl = "http://fredericgingras.ca/"
+languageCode = "en-us"
+title = "Hi, I'm Frederic."
+
+
+[Author]
+	name = "Frederic Gingras"
+
+[Permalinks]
+	posts = "/:year/:month/:slug"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+
+[Params]
+	twitter = "https://twitter.com/fredericgingras"
+	github = "https://github.com/kiasaki"
+	linkedin = "http://www.linkedin.com/in/fgingras"
+	disqus = "fredericgingras"

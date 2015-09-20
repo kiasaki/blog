@@ -1,0 +1,15 @@
+{{ template "partials/head.html" . }}
+{{ template "partials/header.html" . }}
+
+  <div class="content container">
+    <div class="post">
+      <h1 class="post-title">{{ .Title }}</h1>
+      <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+
+      {{ .Content }}
+
+      {{ template "partials/comments.html" . }}
+    </div>
+  </div>
+
+{{ template "partials/footer.html" . }}
