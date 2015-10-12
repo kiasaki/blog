@@ -17,7 +17,7 @@ Making themes for it was not an afterthought and was really well designed.
 This was an occasion to try something new design wise, I wanted something more
 simple, a different layout, and, mainly, simple CSS and a serif font.
 
-# How hard is it?
+## How hard is it?
 
 Well, Hugo is a bit different in the way it approaches content but still easy to
 understand if you come from other static website generators like Jekyll or Metalsmith.

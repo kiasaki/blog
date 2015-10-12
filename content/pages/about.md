@@ -23,7 +23,7 @@ I am currently "nomading" around Europe while running a
 solo-consultancy named [Atriumph](https://www.atriumph.com) taking contract work
 with software companies or startups looking to launch and/or grow. **I usually
 quote on a per project basis and don't do staff augmentation. I am currently
-booked till mid August 2015.**
+booked till beginning of November 2015.**
 
 Previously, (November 2014 - June 2015) I worked at a super duper cool Montreal
 based startup called __Busbud__ as a developer. Wearing a few hats and working
