@@ -17,6 +17,10 @@ I did the same on mine :D
 - **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
 
+## October 2015
+
+- **How to Fail at Almost Everything and Still Win Big** Kind of the Story of My Life _Scott Adams_
+
 ## September 2015
 
 - **The Upgrade** A Cautionary Tale of a Life Without Reservations _Paul Carr_
