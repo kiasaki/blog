@@ -2,93 +2,63 @@
 title = "About me"
 +++
 
-Hi there, my name is Frederic and I am a web developer! I am currently a 20 yrs.
-old and barely student mostly hacker living in ~~the south shore of Montreal~~
-~~the heart of Montreal, Canada~~ around Europe.
-Yes this nice header picture is my home city at night :P
+Hi! I am Frederic Gingras.
 
-I have an ever-growing passion for the web all the learning possibilities around
-it since I was 15 years old, more specifically for the programming, thinking and
-solving hard problems aspect of it. I am a self-learner and can't stop reading
-about new things, trying out new technologies, databases, languages, libraries, etc.
-The universe of the web is so large and filled with interesting things to do,
-with the years I have grown to be a talented  __backend developer__ but over the
-years I ended up reading and becoming quite good at front-end work (by extension
-a little of design) and quite knowledgeable with what's related to entrepreneurship
-and startups.
+A web developer who values less code, quality software and good design. I am not
+fanboy of any specific tool or language but more of the right tool for the job
+and being able to ship quickly.
+
+I currently live in Montreal, Canada but am often seen travelling in Europe.
+Working mostly remotely as a [consultant](http://atriumph.com).
 
 -----
 
-I am currently "nomading" around Europe while running a
-solo-consultancy named [Atriumph](https://www.atriumph.com) taking contract work
-with software companies or startups looking to launch and/or grow. **I usually
-quote on a per project basis and don't do staff augmentation. I am currently
-booked till beginning of November 2015.**
+I have an ever-growing passion for programming (especially the web) all the
+learning possibilities around it since I was 15 years old. I am self-taught
+and can't stop learning new things, trying out new technologies, databases,
+languages, libraries, etc.
 
-Previously, (November 2014 - June 2015) I worked at a super duper cool Montreal
-based startup called __Busbud__ as a developer. Wearing a few hats and working
-on multiple projects but mostly doing back-end work, some front-end features
-here and there and actively learning the SysAdmin ropes and implementing DevOps
-in a growing team. Lots of fun!
+I pride myself in being a well-rounded T-shape person doing mostly **back-end** work
+and still be knowledgeable in front-end development, systems administration,
+systems programming, minimal designer and database architect.
 
-Previously, (September 2014 - November 2014) I was going to school part time.
-I was searching for a new home in which I could grow, discuss, argument, and
-work with interesting peers, anywhere in the WORLD!
+-----
 
-Previously, (September 2011 - September 2014) I worked for [Ankedotes Communication](http://anekdotes.com/)
-as a lead web developer.
+I currently do contract work as [Atriumph](https://www.atriumph.com) helping
+software companies and startups create great applications people love to use.
 
-Here is stuff I know:
+Previously, (November 2014 - June 2015) I worked at a fairly large startup called
+__Busbud__ as a back-end developer. Over there I wore a few hats working on
+diverse projects mostly api work, some front-ends for internal tools and being
+the go-to operations guys managing AWS with Ansible & Terraform.
 
-**Using everyday ATM:**
+Previously, (September 2011 - September 2014) I worked for a small web-agency
+named [Ankedotes Communication](http://anekdotes.com/) as a web-developper
+shipping custom build e-commerces and creating an in house framework and modules.
+
+-----
+
+**I often use:**
 
 - Node.js
-  - Express.js
-- HTML5, CSS3, Sass/Stylus
-  - React.js
-  - Riot.js
-  - Flux architecture
-- Databases/MQs
-  - PostgreSQL
-  - Redis
-  - MongoDB
-  - RabbitMQ
-- Ops
-  - ELK stack
-  - AWS/Digital Ocean cloud providers
-  - Ansible
-  - Terraform
-- General
-  - Markdown
-  - Vim <3
-  - Git
-  - Agile methodologies
-  - Lean thinking
-
-**What I am having fun hacking and learning with**:
-
+- Ruby
 - Go
-- Docker
-- CoreOS (+fleet +etcd)
-- Breaking stuff in C (extensive use of lldb needed)
-- Writing a lisp, searching for enlightenment
+- PostgreSQL, MongoDB & Redis
+- AWS, Ansible & Terraform
 
-**Used to it**:
+**I am learning:**:
 
-- Ruby, Rails & Sinatra
-- ASP.NET & ASP Classic (Oh-Yeah)
-- PHP (Like real PHP, not Wordpress)
-- SQL Server, PostgreSQL & MySQL
-- Javascript, jQuery, Backbone.js, Lodash, Knockout.js, Angular.js, Ramda
+- Clojure
+- C
 
-**Not an expert**:
+**In the past I did:**
 
-- TDD (RSpec, Capybara & Cucumber, Mocha, Chai)
-- Java (mostly for Games/Game Jams, little bit of web fiddling)
-- Angular.js
+- C# ASP.NET & ASP Classic
+- Java
 - Scala
-- Hack Lang (from Facebook)
-
+- PHP
+- Hack lang (from Facebook)
+- SQL Server & MySQL
 
 ---
 

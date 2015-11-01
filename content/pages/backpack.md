@@ -2,20 +2,19 @@
 title = "Frederic's Backpack"
 +++
 
-Hey there!, interested in knowing what I lug around while traveling? I
-maintain a list of what goes into my backpack right over here for you too
-look at/drool over as we all like to do :P
+Hey there! Interested in knowing what I carry around when traveling? I
+maintain a list of what goes into my backpack over here for you too
+look at.
 
 I grew this list from 0 to _some big number_ in April 2014 and now I am
 downsizing it slowly. At the moment I have 56 items on it :D , or at
 least on this page, there are other small thing that are come and go but
 are non-essential, like, lip-balm, winter boots in winter, kleenexes,
-throwable razor... Those thing I either buy in place or are seasonal.
+throwable razors... Those thing I either buy at destination or are seasonal.
 
-If you have a nice pack too, don't be afraid, hit me up, send me an email
-with a link to it, I link to geek out on this and see what people judge
-essential to their travels and lifestyles. (You how gear shopping is like
-porn for travellers ;) )
+If you have a nice pack too, don't be shy and hit me up
+with a link to it, I link to geek out on those and see what people judge
+essential to their travels and lifestyles.
 
 - Tom Bihn Smart Alec 26L
   - Bag Cover
