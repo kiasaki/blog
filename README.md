@@ -10,7 +10,3 @@ Then it used a tiny tool called [muun](http://github.com/kiasaki/muun).
 A simple static blog generator written in Go.
 
 Now it uses [Hugo](http://gohugo.io).
-
-# This is generated code...
-
-... the actual posts and blog is: [here](http://github.com/kiasaki/fredericgingras-blog)

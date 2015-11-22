@@ -8,14 +8,19 @@ I did the same on mine :D
 
 ## In the queue
 
+- **The Mythical Man Month** Essays on Software Engineering _Frederick P. Brooks, Jr._
+- **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
 - **Start Small, Stay Small** A Developer's Guide to Launching a Startup _Rob Walling_
 - **The Miracle Morning** The not-so obivious secret guaranteed to transform your life _Hal Elrod_
 - **Confident You** An Introvert's Guide to Success in Life and Business _S.J. Scott_
 - **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
 - **Good to Great** Why some companies make the leap and others don't _Jim Collins_
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
-- **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
+
+## November 2015
+
+- **Give and Take** A Revolutionary Approach to Success _Adam Grant_
 
 ## October 2015
 

@@ -41,24 +41,26 @@ shipping custom build e-commerces and creating an in house framework and modules
 **I often use:**
 
 - Node.js
-- Ruby
 - Go
+- Ruby
 - PostgreSQL, MongoDB & Redis
+- Angular.js, React
 - AWS, Ansible & Terraform
 
 **I am learning:**:
 
+- Chicken Scheme
 - Clojure
 - C
 
 **In the past I did:**
 
-- C# ASP.NET & ASP Classic
+- C# ASP.NET & ASP Classic (VB)
 - Java
 - Scala
 - PHP
 - Hack lang (from Facebook)
-- SQL Server & MySQL
+- MS SQL Server & MySQL
 
 ---
 

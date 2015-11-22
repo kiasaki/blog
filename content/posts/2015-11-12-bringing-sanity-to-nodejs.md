@@ -1,5 +1,5 @@
 +++
-title = "Bringing sanity to large scale Node.js applications"
+title = "Bringing sanity to growing Node.js applications"
 date = "2015-11-12T21:07:37-05:00"
 slug = "bringing-sanity-to-nodejs-apps"
 +++
@@ -51,7 +51,7 @@ dependencies when you'll want to instantiate a controller.
 
 It would look like this:
 
-```
+```javascript
 import Container from './lib/contrainer';
 export default new Container();
 ```
@@ -59,14 +59,224 @@ export default new Container();
 Then, in your `app.js` you can register libraries you want to make available to
 the following classes you'll register/use.
 
-<script src="https://gist.github.com/kiasaki/263e69a36a523cfef7ac.js"></script>
+```javascript
+import express from 'express';
+import container from './container';
+
+let app = express();
+// ... middlewares, config ...
+
+// Manually setting intance
+import EventEmitter from 'events';
+container.set('events', new EventEmitter());
+
+// Automatically resolving dependencies and setting an instance
+container.load(require('./lib/config'));
+container.load(require('./lib/db'));
+container.load(require('./lib/auth'));
+container.load(require('./repositories/user'));
+container.load(require('./services/billing'));
+
+// Using container to resolve dependencies but
+// giving back the instance insted of setting it.
+let requireUser = contrainer.get('auth').requireUserMiddleware;
+let userController = container.create(require('./controllers/user'));
+app.get('/users/:id', requireUser, userController.showUser);
+app.get('/users/create', requireUser, userController.showCreateUser);
+app.post('/users', requireUser, userController.createUser);
+
+// ... error handling ...
+
+app.listen(contrainer.get('config').get('port'));
+container.get('events').emit('app:started');
+```
+
+_(When you grow to have many more routes, extracting those to their own `routes.js`
+is a good idea)_
 
 The final piece being the DI container it-self. I tried making it as compact as
 possible.
 
-<script src="https://gist.github.com/kiasaki/95b96d4d1710cfc5abb4.js"></script>
+```javascript
+import R from 'ramda';
 
+export default class Container {
+  constructor() {
+    this.contents = {};
+  }
 
-## Repositories and Entities instead of large Models
+  get(name) {
+    if (!(name in this.contents)) {
+      throw Error('Container has nothing registered for key ' + name);
+    }
+    return this.contents[name];
+  }
 
+  set(name, instance) {
+    this.contents[name] = instance;
+  }
 
+  create(klass) {
+    if (!('length' in klass.dependencies)) {
+      throw new Error('Invariant: container can\'t resolve a class without dependencies');
+    }
+
+    var dependencies = R.map(function(dependencyName) {
+      return this.get(dependencyName);
+    }.bind(this), klass.dependencies);
+
+    return applyToConstructor(klass, dependencies)
+  }
+
+  load(klass) {
+    if (typeof klass.dependencyName !== 'string') {
+      throw new Error('Invariant: container can\'t resolve a class without a name');
+    }
+
+    this.set(klass.dependencyName, this.create(klass));
+  }
+
+  unset(name) {
+    delete this.contents[name]
+  }
+
+  reset() {
+    this.contents = {};
+  }
+}
+
+function applyToConstructor(constructor, args) {
+  var newObj = Object.create(constructor.prototype);
+  var constructorReturn = constructor.apply(newObj, args);
+
+  // Some constructors return a value; let's make sure we use it!
+  return constructorReturn !== undefined ? constructorReturn : newObj;
+}
+```
+
+## Repositories, Entities and Services instead of large Models
+
+It's been told on many blog posts and talks for a good while now that fat models
+are evil. The **ActiveRecord** pattern that's so prevalent in Rails and many ORMs
+is easily replaced by separating concerns:
+
+- **Data representation** goes in _models_. Those are as dump as possible, optimally
+  immutable.
+- **Fetching/Saving/Database interactions** are made in _repositories_. Those take
+  plain models and knows how to persist them and query datastores.
+- **Business logic** goes into _services_. Services is the place where most of
+  the complexity resides, it's what controllers call with input, what validates
+  business rules, what's calling repositories and external apis.
+
+To give concrete examples:
+
+An **entity** is a simple POJO/PORO/POCO...
+
+```javascript
+import R from 'ramda';
+
+export default class InvoiceLine {
+  constructor(params) {
+    R.mapObjIndexed((v, k) => this[k] = v, R.merge(User.defaults, params));
+  }
+
+  taxAmount() {
+    return this.price * this.taxes;
+  }
+
+  total() {
+    return this.price + this.taxAmount();
+  }
+}
+InvoiceLine.defaults = {price: 0, taxes: 0.15, created: Date.now()};
+```
+
+A **repository** will most likely take a database object in it's constructor to
+be able to interact with the datastore. Repositories are singletons loaded once
+when stating the app using the container's `load` method.
+
+```javascript
+import User from '../entities/user';
+const TABLE_NAME = 'users';
+
+export default class UserRepository {
+  constructor(db) {
+    this.db = db;
+  }
+
+  findByEmail(email) {
+    return this.db.select('id, name, email, ...')
+      .from(TABLE_NAME)
+      .where('email = ?', email)
+      .limit(1)
+      .exec();
+  }
+}
+UserRepository.dependencyName = 'repositories:user';
+UserRepository.dependencies = ['db'];
+```
+
+A service is the simplest of the 3 in form but the one in which most complexity
+will hide. It simply has instance methods and dependencies listed to it can be
+registered in the container for controllers to depend on.
+
+```javascript
+export default class BillingService {
+  constructor(userRepository, stripeService, mailer) {
+    this.userRepository = userRepository;
+    this.stripeService = stripeService;
+    this.mailer = mailer;
+  }
+
+  createNewAccout(name, email, password, stripeToken) {
+    // validate
+    // create user
+    // create stripe customer
+    // update db user
+    // send welcome email
+    // ...
+  }
+
+  // ...
+}
+BillingService.dependencyName = 'services:billing';
+BillingService.dependencies = [
+  'repositories:user', 'services:stripe', 'mailer'
+];
+```
+
+## Slimmer Controllers in favor of Services
+
+Now that we have a dedicated place to put business logic, you should aim to slim
+down those controllers to their essential job: mapping requests and the http
+protocol oddities to method calls/actions to be taken.
+
+This simple action has the new benefit of decoupling yourself from the transport
+protocol enabling reuse of all that business logic by other consumers like:
+background workers, a websocket endpoint, a protobuff endpoint even a separate
+codebase if you decide to extract the core of your app into a library when you
+grow bigger.
+
+## Factories
+
+As your project grows and your entities become more complex you may come to a
+point where you find yourself spending a lot of lines initializing entities in
+your services, it's a good idea to extract those to factories. Those object will
+give you a clean way to encapsulate complex entity construction with many branches.
+
+## The `lib` folder still exists
+
+Not everything fits into the concepts we just went over, there are few middlewares,
+really simple libs or wrapper and definitively have their place in your `lib`
+folder, just try to keep it lean and mean, most of your code is supposed to be
+elsewhere.
+
+## Conclusion
+
+I hope this post gave you ideas on how to reduce the size and complexity of your
+routes files/folder. Code organization (/architecture) starts simple in a new
+project but **needs** to grow linearly as your project matures or your productivity
+will suffer quite a bit.
+
+I would love to know how you deal with growing codebases too! DM on Twitter or
+send me an email.
