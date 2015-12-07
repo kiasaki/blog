@@ -34,7 +34,7 @@ the go-to operations guys managing AWS with Ansible & Terraform.
 
 Previously, (September 2011 - September 2014) I worked for a small web-agency
 named [Ankedotes Communication](http://anekdotes.com/) as a web-developper
-shipping custom build e-commerces and creating an in house framework and modules.
+shipping custom built e-commerces and creating an in house framework and modules.
 
 -----
 
@@ -55,12 +55,12 @@ shipping custom build e-commerces and creating an in house framework and modules
 
 **In the past I did:**
 
-- C# ASP.NET & ASP Classic (VB)
-- Java
-- Scala
 - PHP
+- Java
+- C# ASP.NET & ASP Classic (VB)
 - Hack lang (from Facebook)
-- MS SQL Server & MySQL
+- Scala
+- Microsoft SQL Server & MySQL
 
 ---
 
