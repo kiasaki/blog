@@ -11,12 +11,16 @@ I did the same on mine :D
 - **The Mythical Man Month** Essays on Software Engineering _Frederick P. Brooks, Jr._
 - **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
 - **Start Small, Stay Small** A Developer's Guide to Launching a Startup _Rob Walling_
-- **The Miracle Morning** The not-so obivious secret guaranteed to transform your life _Hal Elrod_
+- **The Miracle Morning** The not-so obvious secret guaranteed to transform your life _Hal Elrod_
 - **Confident You** An Introvert's Guide to Success in Life and Business _S.J. Scott_
 - **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
 - **Good to Great** Why some companies make the leap and others don't _Jim Collins_
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
+
+## December 2015
+
+- **Effective Programming: More than writing code** Lean Software Development for New and Experienced Coders _Jeff Atwood_
 
 ## November 2015
 
@@ -48,7 +52,7 @@ I did the same on mine :D
 
 - **Hackers & Painters** Big ideas from the computer age _Paul Graham_
 - **The Power of Habit** Why We Do What We Do in Life and Business _Charles Duhigg_
-- **The ONE thing** The Surprisingly Simple Truth Behing Extraordinary Results _Gary Keller & Jay Papasan_
+- **The ONE thing** The Surprisingly Simple Truth Behind Extraordinary Results _Gary Keller & Jay Papasan_
 
 ## Before 2015
 

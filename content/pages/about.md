@@ -44,8 +44,8 @@ shipping custom built e-commerces and creating an in house framework and modules
 - Go
 - Ruby
 - PostgreSQL, MongoDB & Redis
-- Angular.js, React
-- AWS, Ansible & Terraform
+- Angular.js, React.js /w Redux
+- AWS, Ansible & Terraform /w FreeBSD or Ubuntu
 
 **I am learning:**:
 
