@@ -20,6 +20,7 @@ I did the same on mine :D
 
 ## December 2015
 
+- **Clean code** A Handbook of Agile Software Craftsmanship _Robert C. Martin_
 - **Effective Programming: More than writing code** Lean Software Development for New and Experienced Coders _Jeff Atwood_
 
 ## November 2015
