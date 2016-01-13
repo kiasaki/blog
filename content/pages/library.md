@@ -18,6 +18,10 @@ I did the same on mine :D
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
 
+## January 2016
+
+- **How to Stop Sucking and Be Awesome Instead** _Jeff Atwood_
+
 ## December 2015
 
 - **Clean code** A Handbook of Agile Software Craftsmanship _Robert C. Martin_
