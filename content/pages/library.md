@@ -8,7 +8,6 @@ I did the same on mine :D
 
 ## In the queue
 
-- **The Mythical Man Month** Essays on Software Engineering _Frederick P. Brooks, Jr._
 - **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
 - **Start Small, Stay Small** A Developer's Guide to Launching a Startup _Rob Walling_
 - **The Miracle Morning** The not-so obvious secret guaranteed to transform your life _Hal Elrod_
@@ -17,6 +16,10 @@ I did the same on mine :D
 - **Good to Great** Why some companies make the leap and others don't _Jim Collins_
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
+
+## February 2016
+
+- **The Mythical Man Month** Essays on Software Engineering _Frederick P. Brooks, Jr._
 
 ## January 2016
 
