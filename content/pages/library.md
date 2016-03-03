@@ -17,6 +17,10 @@ I did the same on mine :D
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
 
+## March 2016
+
+- **Clojure for the Brave and True** Learn the Ultimate Language and Become a Better Programmer _Daniel Higginbotham_
+
 ## February 2016
 
 - **The Mythical Man Month** Essays on Software Engineering _Frederick P. Brooks, Jr._
