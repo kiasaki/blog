@@ -48,9 +48,9 @@ shipping custom built e-commerces and creating an in house framework and modules
 **I often use:**
 
 - React.js /w Redux
-- Go
 - Node.js
-- PostgreSQL, Redis
+- Go
+- PostgreSQL, Redis, ElasticSearch
 - AWS, Ansible, Terraform and Docker /w FreeBSD, Ubuntu or Alpine
 
 **I am learning:**:

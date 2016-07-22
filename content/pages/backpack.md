@@ -16,15 +16,13 @@ If you have a nice pack too, don't be shy and hit me up
 with a link to it, I link to geek out on those and see what people judge
 essential to their travels and lifestyles.
 
-- Backpack (Tom Bihn - Smart Alec 26L)
+- Backpack (Minaal Daily Bag 21L)
     - Travel Towel (Sea To Summit - Dry Lite)
     - Leather Sandals ([Earth Runner - Circadian X](http://www.earthrunners.com/products/circadian-x))
-    - Small first-aid kit
     - Cables Bag
         - Power Bar (4 outlets & compact)
         - Power Adapter (NA->EU)
         - Cable: Mini DisplayPort to DVI
-        - Cable: Mini DisplayPort to HDMI
         - USB to Ethernet
         - USB Key
         - Lip balm
@@ -34,7 +32,7 @@ essential to their travels and lifestyles.
         - 1x Tank top (Cariloha - Bamboo - Black)
         - 1x T-Shirt (Columbia - Black)
         - 1x Shorts (Olivers) (doubles as swimsuit)
-        - 2x Boxers (ExOfficio - Give-N-Go)
+        - 1x Boxers (ExOfficio - Give-N-Go)
         - 3x Socks (1x winter, 1x smart wool, 1x short sporty)
         - 1x Bluffworks Dressy Pants
     - Toiletries Bag (Sea to Summit - Clear)
@@ -44,19 +42,16 @@ essential to their travels and lifestyles.
         - Deodorant
         - Nail Clipper & Tweezers
         - Tyennols/Advils/Thums in plastic container
-        - Spork
 - Messenger Bag (Timbuk2 - Classic Messenger Small)
     - Backup wallet (backup cash, extra debit & creadit card)
     - Passports (in ziplock)
-    - Sim cards Collection (in ziplock)
-    - Cellphone (Samsung - A300) (w/ charger)
+    - Cellphone (iPhone SE) (w/ charger)
     - Laptop (Apple - MacBook Pro 13’) (w/ charger & cover)
     - Headphones (Bose - QC25)
     - Laptop stand (Roost 2)
     - Keyboard (Apple wireless)
     - Mouse (Razer Orochi)
     - Raincoat (Trespass - Qikpac)
-    - E-Book reader (Amazon - Kindle Paperwhite)
     - Lined notebook (Moleskin)
     - 2x Pen
     - Fabric shopping bag

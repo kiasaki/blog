@@ -15,6 +15,20 @@ I did the same on mine :D
 - **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
 - **Good to Great** Why some companies make the leap and others don't _Jim Collins_
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
+- **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
+- **Sexy Little Numbers** How to Grow Your Business Using the Data You Already Have _Dimitri Maex_
+- **Sprint** How to Solve Big Problems and Test New Ideas in Just Five Days _Knapp, Zeratsky & Kowitz_
+- **Playing to Win** How Strategy Really Works _Lafley Martin_
+- **Smarter Better Faster** The Secrets of Beeing Productive in Life and Business _Charles Duhigg_
+
+## July 2016
+
+- **JavaScript: The Good Parts** Unearthing the excellence in JavaScript _Douglas Crockford_
+- **Code Simplicity** The Fundamentals of Software _Max Kanat-Alexander_
+- **Software, Faster** From months to minutes _Dan North_
+
+## June 2016
+
 - **Realm of Racket** Learn to Program, One Game at the Time! _Matthias Felleisen_
 
 ## March 2016
