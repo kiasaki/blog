@@ -18,8 +18,13 @@ I did the same on mine :D
 - **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
 - **Sexy Little Numbers** How to Grow Your Business Using the Data You Already Have _Dimitri Maex_
 - **Sprint** How to Solve Big Problems and Test New Ideas in Just Five Days _Knapp, Zeratsky & Kowitz_
-- **Playing to Win** How Strategy Really Works _Lafley Martin_
 - **Smarter Better Faster** The Secrets of Beeing Productive in Life and Business _Charles Duhigg_
+
+## August 2016
+
+- **Data Driven** Creating a Data Culture _DJ Patil & Hilary Mason_
+- **Playing to Win** How Strategy Really Works _Lafley Martin_
+- **Slack** Getting Past Burnout, Busywork, and the Myth of Total Efficiency _Tom DeMarco_
 
 ## July 2016
 
