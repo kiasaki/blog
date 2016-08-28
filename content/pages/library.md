@@ -13,7 +13,6 @@ I did the same on mine :D
 - **The Miracle Morning** The not-so obvious secret guaranteed to transform your life _Hal Elrod_
 - **Confident You** An Introvert's Guide to Success in Life and Business _S.J. Scott_
 - **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
-- **Good to Great** Why some companies make the leap and others don't _Jim Collins_
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
 - **Sexy Little Numbers** How to Grow Your Business Using the Data You Already Have _Dimitri Maex_
@@ -22,6 +21,7 @@ I did the same on mine :D
 
 ## August 2016
 
+- **Good to Great** Why some companies make the leap and others don't _Jim Collins_
 - **Data Driven** Creating a Data Culture _DJ Patil & Hilary Mason_
 - **Playing to Win** How Strategy Really Works _Lafley Martin_
 - **Slack** Getting Past Burnout, Busywork, and the Myth of Total Efficiency _Tom DeMarco_
