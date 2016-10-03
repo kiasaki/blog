@@ -12,12 +12,15 @@ I did the same on mine :D
 - **Start Small, Stay Small** A Developer's Guide to Launching a Startup _Rob Walling_
 - **The Miracle Morning** The not-so obvious secret guaranteed to transform your life _Hal Elrod_
 - **Confident You** An Introvert's Guide to Success in Life and Business _S.J. Scott_
-- **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
 - **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
 - **Sexy Little Numbers** How to Grow Your Business Using the Data You Already Have _Dimitri Maex_
 - **Sprint** How to Solve Big Problems and Test New Ideas in Just Five Days _Knapp, Zeratsky & Kowitz_
 - **Smarter Better Faster** The Secrets of Beeing Productive in Life and Business _Charles Duhigg_
+
+## September 2016
+
+- **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
 
 ## August 2016
 
