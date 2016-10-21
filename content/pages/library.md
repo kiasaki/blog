@@ -23,6 +23,10 @@ I did the same on mine :D
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 - **Drive** The Surprising Truth About What Motivate Us _Daniel H. Pink_
 
+## October 2016
+
+- **Ultralight** The Zen Habits guide to Traveling Light & Living Light _Leo Babauta_
+
 ## September 2016
 
 - **The Hard Thing About Hard Things** Building a Business When There Are No Easy Answers _Ben Horowitz_
