@@ -25,19 +25,22 @@ systems programming, minimal designer and database architect.
 
 -----
 
-_I currently_ work at **Plot.ly** as front-end developer coding and maintaining a
-React.js and Redux codebase. I also do some DevOps here and there using Ansible
-to manage an AWS fleet of instances and coding in house tooling in Go to help
-the whole team develop, test and deploy faster and with more confidence.
+_I currently_ am thinking about what's next while sharpening my skill ;)
 
-_Previously, (June 2015 - February 2016)_ I did contract work as [Atriumph](https://www.atriumph.com)
-helping software companies and startups create great applications people love
-to use.
+_Previously, (January 2016 - November 2016)_ I worked at **Plot.ly** as
+front-end developer coding and maintaining a React.js and Redux codebase.
+I also do some DevOps here and there using Ansible to manage an AWS fleet
+of instances and coding in house tooling in Go to help the whole team develop,
+test and deploy faster and with more confidence.
+
+_Previously, (June 2015 - February 2016)_ I did contract work as
+[Atriumph](https://www.atriumph.com) helping software companies and startups
+create great applications people love to use.
 
 _Previously, (November 2014 - June 2015)_ I worked at a fairly large startup called
 **Busbud** as a back-end developer. Over there I wore a few hats working on
-diverse projects mostly api work, some front-ends for internal tools and being
-the go-to operations guys managing AWS with Ansible & Terraform.
+diverse projects mostly api work with Node.js, some front-ends for internal
+tools and being the go-to operations guys managing AWS with Ansible & Terraform.
 
 _Previously, (September 2011 - September 2014)_ I worked for a small web-agency
 named [Ankedotes Communication](http://anekdotes.com/) as a web-developper

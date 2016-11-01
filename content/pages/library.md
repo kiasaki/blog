@@ -25,6 +25,7 @@ I did the same on mine :D
 
 ## October 2016
 
+- **The War of Art** Break Through the Blocks and Win Your Iner Creative Battles _Steven Pressfield_
 - **Ultralight** The Zen Habits guide to Traveling Light & Living Light _Leo Babauta_
 
 ## September 2016
