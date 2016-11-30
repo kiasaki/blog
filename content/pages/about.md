@@ -25,7 +25,7 @@ systems programming, minimal designer and database architect.
 
 -----
 
-_I currently_ am thinking about what's next while sharpening my skill ;)
+_I currently_ am thinking about what's next while sharpening my skills ;)
 
 _Previously, (January 2016 - November 2016)_ I worked at **Plot.ly** as
 front-end developer coding and maintaining a React.js and Redux codebase.

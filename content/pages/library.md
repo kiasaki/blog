@@ -19,9 +19,12 @@ I did the same on mine :D
 - **Smarter Better Faster** The Secrets of Beeing Productive in Life and Business _Charles Duhigg_
 - **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
-- **The C Programming Language** Second Edition _Brian W. Kernighan & Denis M. Ritchie_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 - **Drive** The Surprising Truth About What Motivate Us _Daniel H. Pink_
+
+## November 2016
+
+- **The C Programming Language** Second Edition _Brian W. Kernighan & Denis M. Ritchie_
 
 ## October 2016
 
