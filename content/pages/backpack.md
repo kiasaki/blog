@@ -7,60 +7,55 @@ maintain a list of what goes into my backpack over here for you too
 look at.
 
 I grew this list from 0 to _some big number_ in April 2014 and now I am
-downsizing it slowly. At the moment I have 56 items on it :D , or at
-least on this page, there are other small thing that are come and go but
-are non-essential, like, lip-balm, winter boots in winter, kleenexes,
-throwable razors... Those thing I either buy at destination or are seasonal.
+downsizing it slowly. At the moment I have 48 items on it. A few situational
+or seasonal items I'll get at destination (like kleenexes, advil, winter gear).
 
-If you have a nice pack too, don't be shy and hit me up
-with a link to it, I link to geek out on those and see what people judge
-essential to their travels and lifestyles.
+If you have a nice pack too, don't be shy and hit me up with a link to it, I
+link to geek out on those and see what people judge essential to their travels
+and lifestyles.
 
-- Backpack (Minaal Daily Bag 21L)
+- Duffel bag ([Rains - Zip Bag](https://www.rains.dk/collections/bags-accessories/products/zip-bag?variant=21506599425))
     - Travel Towel (Sea To Summit - Dry Lite)
     - Leather Sandals ([Earth Runner - Circadian X](http://www.earthrunners.com/products/circadian-x))
     - Cables Bag
-        - Power Bar (4 outlets & compact)
-        - Power Adapter (NA->EU)
-        - Cable: Mini DisplayPort to DVI
-        - USB to Ethernet
-        - USB Key
-        - Lip balm
+        - Power Bar compact 4 outlets
+        - Power Adapter NA->EU
+        - Adapter: Mini-DisplayPort to DVI (Apple)
+        - Adapter: USB to Ethernet (Apple)
+        - USB Key (Samsung - 64GB)
+        - Lip balm (Nivea For Men - Active Care)
     - Compression Bag
         - Insulated Jacket (Columbia) (when not wearing it)
-    - Packing Cube (Pack-it - Half Cube)
-        - 1x Tank top (Cariloha - Bamboo - Black)
-        - 1x T-Shirt (Columbia - Black)
-        - 1x Shorts (Olivers) (doubles as swimsuit)
-        - 1x Boxers (ExOfficio - Give-N-Go)
-        - 3x Socks (1x winter, 1x smart wool, 1x short sporty)
-        - 1x Bluffworks Dressy Pants
+    - Packing Cube (Eagle Creek - Pack-It Specter Half Cube)
+        - 3x T-Shirt (Uniqlo - Black)
+        - 3x Pair of Socks (Uniqlo)
+        - Shorts (Olivers) (doubles as swimsuit)
+        - Boxers (ExOfficio - Give-N-Go)
+        - Dressy Pants (Bluffworks)
+        - Belt
     - Toiletries Bag (Sea to Summit - Clear)
         - Toothbrush (w/ travel cover)
         - Toothpaste (travel sized)
-        - Floss
-        - Deodorant
         - Nail Clipper & Tweezers
-        - Tyennols/Advils/Thums in plastic container
-- Messenger Bag (Timbuk2 - Classic Messenger Small)
-    - Backup wallet (backup cash, extra debit & creadit card)
-    - Passports (in ziplock)
+        - Deodorant
+        - Razor
+- Backpack ([Timbuk2 - Mini Prospect](http://www.timbuk2.com/customizer#/product/26-mini-custom-prospect-backpack/size/2))
+    - Passports (Canada & Poland)
     - Cellphone (iPhone SE) (w/ charger)
-    - Laptop (Apple - MacBook Pro 13’) (w/ charger & cover)
+    - Laptop (Apple - 2015 MacBook Pro 13’) (w/ charger)
     - Headphones (Bose - QC25)
     - Laptop stand (Roost 2)
-    - Keyboard (Apple wireless)
+    - Keyboard (Apple New Wireless)
     - Mouse (Razer Orochi)
-    - Raincoat (Trespass - Qikpac)
-    - Lined notebook (Moleskin)
-    - 2x Pen
-    - Fabric shopping bag
+    - Raincoat ([Uniqlo - Blocktech Raincoat](https://www.uniqlo.com/us/en/mens-blocktech-rain-coat-167506.html))
+    - Notebook (Muji - Recycled Paper - Grid)
+    - Pen (Pentel - EnerGel)
+    - Fabric Shopping Bag (Muji)
 - On me
-    - Belt
-    - Technical stretchy pants ([Outdoor Research - Ferrosi](http://www.outdoorresearch.ca/ca_en/mens-ferrosi-pants-short-ca.html))
-    - Boots (Leathery, Dressy & All Black)
+    - Comfy Fleece Pants (Uniqlo)
+    - Running Shoes (Nike - Free RN)
     - Merino Buff ([Buff](http://www.buffwear.com/lifestyle-hats-collection-place-forward-order-here/black-wool-buff))
-    - Fleece ([Patagonia Better Sweater](http://www.patagonia.com/ca/product/mens-better-sweater-quarter-zip-fleece?p=25522-0-STH))
-    - T-Shirt (Merino) ([Patagonia Daily](http://www.patagonia.com/ca/product/mens-merino-daily-t-shirt?p=36305-0))
+    - Sweater ([Uniqlo](https://www.uniqlo.com/us/en/men-middle-gauge-waffle-crewneck-sweater-173233.html))
+    - T-Shirt (Merino) ([Ibex - OD Heather T](http://shop.ibex.com/merino-wool-clothing/mens-short-sleeve-shirts/m-od-heather-t-shirt))
     - Boxer ([ExOfficio Give-N-Go](http://www.exofficio.com/products/details/mens-give-n-go-boxer))
     - Wallet ([SlimFold](http://www.slimfoldwallet.com/))
