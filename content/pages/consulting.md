@@ -33,12 +33,19 @@ is where I thrive.
   implemented so we can measure the impact of the MVP or feature.
 - **6. Learn:** We'll retrospect on the outcome of the launch and discuss about the possible next steps.
 
+### Expertise
+
+- Backend (Node.js, Go)
+- Frontend (React, Backbone, Webpack/ES6, & more)
+- Databases (PostgreSQL, Redis, MongoDB, ElasticSearch)
+- Linux/Unix server administration
+- Cloud and infrastructure
 
 ### Also...
 
-- I do short term engagement on building a defined MVP or feature
-- I mostly work with early-stage startups
-- I can come on-site, which is preferable if possible
+- I do short term engagements on building a defined MVP or feature
+- I mostly work with early-stage startups and small businesses
+- I can come on-site, which is preferable when possible
 - I try and only help startups that use technologies I have experience with, that way I ensure
   that I can actually deliver a solution quickly and that you pay me to execute on a plan not learn
   and debug
@@ -48,16 +55,23 @@ is where I thrive.
 ## What I expect from you
 
 First and foremost the kind of engagements I take are short but intense, meaning you will need to have
-someone from your team available to collaborate with so I can ask questions, bounce ideas and make
-decisions. Given that you can provide me with someone like that, we should be able to achieve great
-results.
+someone from your team available for me to collaborate with. You need someone I can ask questions to,
+bounce ideas with and make decisions fast. Given that you can provide me with someone like that, we
+should be able to achieve great results together.
 
-I charge premium rates but deliver premium service, for a defined clientele, and will come on-site
-if needed (it's preferable) if you understand that, we should get along.
+---
+
+## Rate and availability
+
+My next availability is: **February 2016**
+
+My rate is **$6,000 per week**. I bill weekly for projects with vague requirements but try and bill a
+fixed price when projects have clear requirements.
 
 ---
 
 ## Ready to launch your MVP or ship that big feature?
 
-Contact me by email ([frederic@gingras.cc](mailto:frederic@gingras.cc)) so we find a time to talk.
-We'll see if there is a good fit for the service I can provide you.
+Send me an email at ([frederic@gingras.cc](mailto:frederic@gingras.cc)) and we'll find time for
+a chat. That first call will really be about getting to know what your needs are and seeing if
+I am the right person for you. Talk to you soon!
