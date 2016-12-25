@@ -22,6 +22,10 @@ I did the same on mine :D
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 - **Drive** The Surprising Truth About What Motivate Us _Daniel H. Pink_
 
+## December 2016
+
+- **The Ultimate Freelancer's Guidebook** Learn how to: Land the best jobs, build your brand, be your own boss _Yuwanda Black_
+
 ## November 2016
 
 - **The C Programming Language** Second Edition _Brian W. Kernighan & Denis M. Ritchie_
