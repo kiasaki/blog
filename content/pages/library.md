@@ -20,11 +20,12 @@ I did the same on mine :D
 - **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
-- **Drive** The Surprising Truth About What Motivate Us _Daniel H. Pink_
 
 ## December 2016
 
 - **The Ultimate Freelancer's Guidebook** Learn how to: Land the best jobs, build your brand, be your own boss _Yuwanda Black_
+- **Drive** The Surprising Truth About What Motivate Us _Daniel H. Pink_
+- **Code For Cash** Transitioning from salaried dev to independant _Zack Burt_
 
 ## November 2016
 
