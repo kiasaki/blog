@@ -38,8 +38,8 @@ is where I thrive.
 - Backend (Node.js, Go)
 - Frontend (React, Backbone, Webpack/ES6, & more)
 - Databases (PostgreSQL, Redis, MongoDB, ElasticSearch)
-- Linux/Unix server administration
-- Cloud and infrastructure
+- Linux/Unix server administration (Ubuntu, Alpine, FreeBSD)
+- Cloud and infrastructure as code (AWS, GCP, Terraform, Ansible)
 
 ### Also...
 
