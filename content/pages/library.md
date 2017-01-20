@@ -21,11 +21,15 @@ I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## January 2016
+
+- **Execute** _Drew Wilson & Josh Long_
+
 ## December 2016
 
 - **The Ultimate Freelancer's Guidebook** Learn how to: Land the best jobs, build your brand, be your own boss _Yuwanda Black_
 - **Drive** The Surprising Truth About What Motivate Us _Daniel H. Pink_
-- **Code For Cash** Transitioning from salaried dev to independant _Zack Burt_
+- **Code For Cash** Transitioning from salaried dev to independent _Zack Burt_
 
 ## November 2016
 
