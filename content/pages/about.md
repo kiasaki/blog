@@ -8,7 +8,7 @@ Hi there! I am Frederic Gingras.
 designed code boundaries. I am not fanboy of any specific tool or language but more of
 the right tool for the job and being able to ship quickly.**
 
-I currently live in Montreal, Canada but am often seen travelling in Europe or the East Coast.
+I currently live in Toronto, Canada but am often seen travelling in Europe or the East Coast.
 
 -----
 
@@ -30,7 +30,7 @@ design, systems administration, systems programming, and databases in my free ti
 
 ## Work experience
 
-_I currently_ am thinking about what's next while sharpening my skills ;)
+_I am currently_ working for **Wave** as a Fullstack Developer.
 
 _Previously, (January 2016 - November 2016)_ I worked at **Plot.ly** as
 senior front-end developer coding and maintaining a large React.js and Redux codebase.
