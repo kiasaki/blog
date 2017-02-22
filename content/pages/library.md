@@ -8,21 +8,23 @@ I did the same on mine :D
 
 ## In the queue
 
-- **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
-- **Start Small, Stay Small** A Developer's Guide to Launching a Startup _Rob Walling_
-- **The Miracle Morning** The not-so obvious secret guaranteed to transform your life _Hal Elrod_
-- **Confident You** An Introvert's Guide to Success in Life and Business _S.J. Scott_
-- **The 4 Hour Body** An uncommon Guide To Rapid Fat-Loss, Incredible Sex, And Becoming Super Human _Timothy Ferriss_
 - **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
-- **Sexy Little Numbers** How to Grow Your Business Using the Data You Already Have _Dimitri Maex_
 - **Sprint** How to Solve Big Problems and Test New Ideas in Just Five Days _Knapp, Zeratsky & Kowitz_
-- **Smarter Better Faster** The Secrets of Beeing Productive in Life and Business _Charles Duhigg_
+- **Smarter Better Faster** The Secrets of Being Productive in Life and Business _Charles Duhigg_
+- **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
 - **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
-## January 2016
+## February 2017
 
+- **Antifragile** Things that gain from disorder _Nassim Nicholas Taleb_
+- **The little Schemer** Fourth Edition _Daniel P. Friedman & Matthias Felleisen_
+- **Effective Python** 59 Specific Ways to Write Better Python _Brett Slatkin_
+
+## January 2017
+
+- **Coders at Work:** Reflections on the Craft of Programming _Peter Seibel_
 - **Execute** _Drew Wilson & Josh Long_
 
 ## December 2016
