@@ -16,6 +16,10 @@ I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## April 2017
+
+- **Rest** Why You Get More Done When You Work Less _Alex Soojung-Kim Pang_
+
 ## February 2017
 
 - **Antifragile** Things that gain from disorder _Nassim Nicholas Taleb_
