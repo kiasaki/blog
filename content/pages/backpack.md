@@ -25,32 +25,32 @@ and lifestyles.
         - USB Key (Samsung - 64GB)
         - Lip balm (Nivea For Men - Active Care)
     - Compression Bag
-        - Insulated Jacket (Columbia) (when not wearing it)
+        - Insulated Jacket (Columbia) (in bag when not wearing it)
     - Packing Cube (Eagle Creek - Pack-It Specter Half Cube)
-        - 3x T-Shirt (Uniqlo - Black)
+        - 3x Black T-Shirt (Uniqlo - Black)
         - 3x Pair of Socks (Uniqlo)
         - Shorts (Olivers) (doubles as swimsuit)
         - Boxers (ExOfficio - Give-N-Go)
         - Dressy Pants (Bluffworks)
-        - Belt
+        - Belt (Bison Designs)
     - Toiletries Bag (Sea to Summit - Clear)
         - Toothbrush (w/ travel cover)
         - Toothpaste (travel sized)
-        - Nail Clipper & Tweezers
+        - Nail Clipper
+        - Tweezers
         - Deodorant
         - Razor
-- Backpack ([Timbuk2 - Mini Prospect](http://www.timbuk2.com/customizer#/product/26-mini-custom-prospect-backpack/size/2))
+- Backpack ([Timbuk2 - Especial Primo Waterproof](http://www.timbuk2.com/primo-waterproof-backpack/486-3-2000.html)
     - Passports (Canada & Poland)
     - Cellphone (iPhone SE) (w/ charger)
     - Laptop (Apple - 2015 MacBook Pro 13’) (w/ charger)
     - Headphones (Bose - QC25)
     - Laptop stand (Roost 2)
-    - Keyboard (Apple New Wireless)
-    - Mouse (Razer Orochi)
+    - Keyboard (iKBC - New Poker II)
     - Raincoat ([Uniqlo - Blocktech Raincoat](https://www.uniqlo.com/us/en/mens-blocktech-rain-coat-167506.html))
     - Notebook (Muji - Recycled Paper - Grid)
     - Pen (Pentel - EnerGel)
-    - Fabric Shopping Bag (Muji)
+    - Fabric Shopping Bag (MEC)
 - On me
     - Comfy Fleece Pants (Uniqlo)
     - Running Shoes (Nike - Free RN)

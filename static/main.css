@@ -63,7 +63,7 @@ ul.posts li { margin: 8px 0; padding: 4px; line-height: 22px; font-size: 20px; }
 .post-date { font-style: italic; margin-bottom: 1rem; display: inline-block; color: #999999; }
 .pagination { text-align: center; }
 
-.footer { margin: 2rem auto; text-align: center; border-top: 2px solid #eeeeee; padding: 0.5rem; }
+.footer { margin: 2rem auto; text-align: center; border-top: 2px solid #eeeeee; padding: 0.5rem; font-size: 0.8rem; }
 
 /* Highlight.js 8.9.1 */
 /******************************************/

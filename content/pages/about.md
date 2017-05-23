@@ -14,17 +14,20 @@ I currently live in Toronto, Canada but am often seen travelling in Europe or th
 
 ## Me
 
-I have an ever-growing passion for programming (especially web platform related).
-The wide array of learning opportunities have excited me to keep growing since when
-I was 15 years old.
+I have an ever-growing passion for programming (especially for the web and servers powering it).
+The seemingly endless array of learning opportunities programming brings is amazing. Since my
+first bits of HTML and PHP when I was 15 years old I kept growing and learning every day with
+no end in sight.
 
-I am **self-taught** but did a college degree that's CS related. But, I attribute most
-of my knowledge and skills to the _relentless book reading, technology trying,
-hackathon attending, side-project hacking and challenging work opportunities._
+I am mostly **self-taught** as all programmers are, but did a college degree that's CS related
+before deciding to skip on University. I attribute most of my knowledge and skills to the
+_relentless book reading, technology trying, hackathon attending, side-project hacking and
+challenging work opportunities_ not school.
 
-I pride myself in being a well-rounded T-shape person with professional experience doing
+I pride myself in being a well-rounded T-shaped person with professional experience doing
 **back-end** work and more recently heavy **front-end** work. But I love diving into
-design, systems administration, systems programming, and databases in my free time.
+design, systems administration, systems programming, compilers, interpreters and databases
+in my free time. I value results and working code over a specific tool or methodology.
 
 -----
 
@@ -37,10 +40,10 @@ senior front-end developer coding and maintaining a large React.js and Redux cod
 While at Plotly I spearheaded an effort to standardize and rewrite a large portion
 of the current web application pages and functionally so that we had consistency in
 style and robustness going forward. I also built new features like the dashboard
-creation app.
+creation app with advanced drag-n-drop and mouse based resizing.
 
-_Previously, (June 2015 - February 2016)_ I did contract work as helping small businesses
-either launch or improve their SaaS products.
+_Previously, (June 2015 - February 2016)_ I did contract work helping small businesses
+either launch or improve their SaaS products under the **Atriumph** name.
 
 _Previously, (November 2014 - June 2015)_ I worked for **Busbud** as a
 back-end developer. Over there I wore a few hats working on diverse projects
@@ -62,7 +65,7 @@ e-commerce functionalities and all kind of back office tools for small local bus
 **I often use:**
 
 - React.js /w Redux
-- Node.js
+- Python
 - Go
 - PostgreSQL, Redis, ElasticSearch
 - AWS, Ansible, Terraform and Docker /w FreeBSD, Ubuntu or Alpine
@@ -75,6 +78,7 @@ e-commerce functionalities and all kind of back office tools for small local bus
 
 **In the past I did:**
 
+- Node.js
 - PHP
 - Ruby
 - Java
@@ -94,4 +98,3 @@ You can find me here:
 - [Flickr](https://www.flickr.com/photos/fredericgingras)
 - [Facebook](http://facebook.com/fredericagingras)
 - [Email me](mailto:frederic@gingras.cc)
-- [Codeschool](http://codeschool.com/users/kiasaki)
