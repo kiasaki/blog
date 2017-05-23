@@ -1,16 +1,15 @@
-# My own little blog
+# The compiled version of my personal website
 
-This blog used to be plain old html files
+This blog used to be plain old html files...
 
-Then it became a Jekyll blog for a good part of it's life but wanting some change
-and no dependency on ruby to build it but still whishing for it to live on GitHub
-pages...
+Then it became a Jekyll blog for a good part of it's life...
 
-Then it used a tiny tool called [muun](http://github.com/kiasaki/muun).
-A simple static blog generator written in Go.
+Wishing to explore new frontiers and avoid the dependency on ruby (even if just at build time)
+while keeping it static (hence using GitHub Pages) I created a tiny tool called
+[muun](http://github.com/kiasaki/muun) in Go...
 
-Now it uses [Hugo](http://gohugo.io).
+I now reverted to using the great [Hugo](http://gohugo.io), also written in Go.
 
 # This is generated code...
 
-... the actual posts and blog is: [here](http://github.com/kiasaki/fredericgingras-blog)
+...the actual sources are: [here](http://github.com/kiasaki/fredericgingras-blog)
