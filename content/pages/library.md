@@ -16,6 +16,15 @@ I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## May 2017
+
+- **Elon Musk** Tesla, SpaceX, and the Quest for a Fantastic Future _Ashlee Vance_
+- **Deep Work** Rules for Focused Success in a Distracted World _Cal Newport_
+- **The Richest Man in Babylon** The Success Secrets of the Ancients _George S. Clason_
+- **Hackers** Heroes of the Computer Revolution _Steven Levy_
+- **The Hitchhikers Guide To The Galaxy** _Douglas Adams_
+- **How Google Works** _Eric Schmidt_
+
 ## April 2017
 
 - **Rest** Why You Get More Done When You Work Less _Alex Soojung-Kim Pang_
