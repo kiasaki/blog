@@ -20,7 +20,8 @@ I did the same on mine :D
 
 - **Elon Musk** Tesla, SpaceX, and the Quest for a Fantastic Future _Ashlee Vance_
 - **Deep Work** Rules for Focused Success in a Distracted World _Cal Newport_
-- **The Richest Man in Babylon** The Success Secrets of the Ancients _George S. Clason_
+- **Outliers** The story of success _Malcolm Gladwell_
+- **The Richest Man in Babylon** _George S. Clason_
 - **Hackers** Heroes of the Computer Revolution _Steven Levy_
 - **The Hitchhikers Guide To The Galaxy** _Douglas Adams_
 - **How Google Works** _Eric Schmidt_
