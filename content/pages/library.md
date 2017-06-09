@@ -16,6 +16,11 @@ I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## June 2017
+
+- **A Guide to the Good Life** The Ancient Art of Stoic Joy _William Braxton Irvine_
+- **China China's Mobile Economy** Opportunities in the Largest and Fastest Information Consumption Boom _Winston Ma_
+
 ## May 2017
 
 - **Elon Musk** Tesla, SpaceX, and the Quest for a Fantastic Future _Ashlee Vance_
