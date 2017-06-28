@@ -15,9 +15,13 @@ I did the same on mine :D
 - **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
+- **Quiet** The Power of Introverts in a World That Can't Stop Talking _Susan Cain_
 
 ## June 2017
 
+- **Stock Market Wizards** Interviews with America's Top Stock Traders _Jack D. Schwager_
+- **The New Trading for a Living** Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management _Alexander Elder_
+- **Stumbling on Happiness** _Daniel Gilbert_
 - **A Guide to the Good Life** The Ancient Art of Stoic Joy _William Braxton Irvine_
 - **China China's Mobile Economy** Opportunities in the Largest and Fastest Information Consumption Boom _Winston Ma_
 
