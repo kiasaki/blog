@@ -15,7 +15,23 @@ I did the same on mine :D
 - **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
+
+## September 2017
+
+- **Extreme Ownership** How U.S. Navy SEALs Lead and Win _Jocko Willink & Leif Babin_
+- **Originals** How Non-Conformists Move the World _Adam Grant_
+- **Wealth Can’t Wait** Avoid the 7 Wealth Traps, Implement the 7 Business Pillars, and Complete a Life Audit Today _David Osborn & Paul Morris_
+
+## August 2017
+
+- **Barking Up the Wrong Tree** The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong _Eric Barker_
+- **The Millionaire Fastlane** Crack the Code to Wealth and Live Rich for a Lifetime _MJ DeMarco_
 - **Quiet** The Power of Introverts in a World That Can't Stop Talking _Susan Cain_
+
+## July 2017
+
+- **The Art of Trend Trading** Animal Spirits and your path to Profits _Michael Parness_
+- **Beating the Street** _Peter Lynch_
 
 ## June 2017
 

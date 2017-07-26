@@ -2,6 +2,7 @@
 title = "[Book Notes] The New Stock Trading For a Living"
 date = "2017-07-02"
 slug = "the-new-stock-trading-for-a-living-notes"
+draft = true
 +++
 
 <small>
