@@ -16,6 +16,12 @@ I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## October 2017
+
+- **Blink**: The Power of Thinking Without Thinking _Malcolm Gladwell_
+- **The Developer's Code**: What Real Programmers Do _Ka Wai Cheung_
+- **The Subtle Art of Not Giving a Fuck**: A Counterintuitive Approach to Living a Good Life _Mark Manson_
+
 ## September 2017
 
 - **Extreme Ownership** How U.S. Navy SEALs Lead and Win _Jocko Willink & Leif Babin_
