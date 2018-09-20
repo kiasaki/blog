@@ -2,19 +2,32 @@
 title = "Frederic's Library"
 +++
 
-Here is a list of few books I enjoyed reading the most and highly recommend.
-I always love to see a section with favorite books of the author on a blog so
-I did the same on mine :D
+Here is a list of books I recently enjoyed reading.
+I always love to see a section with the favorite books of the author
+on a blog so I did the same on mine :D
 
 ## In the queue
 
-- **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
+- **Why Nations Fail** The Origins of Power, Prosperity, and Poverty _Daron Acemoglu_
+- **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Sprint** How to Solve Big Problems and Test New Ideas in Just Five Days _Knapp, Zeratsky & Kowitz_
 - **Smarter Better Faster** The Secrets of Being Productive in Life and Business _Charles Duhigg_
+- **How to Win Friends & Influence People** The Only Book You Need to Lead You to Success _Dale Carnegie_
 - **The Clean Coder** A Code of Conduct for Professional Programmers _Robert C. Martin_
-- **Creativity, Inc.** Overcoming the unseen forces that stand in the way of true inspiration _Ed Catmull_
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
+
+## August 2018
+
+- **Trend Following** How to Make a Fortune in Bull, Bear, and Black Swan Markets _Michael W. Covel_
+- **Understanding Software** on simplicity, coding, and how to suck less as a programmer _Max Kanat-Alexander_
+- **The Problem of HFT** Collected Writings on High Frequency Trading & Stock Market Structure Reform _Haim Bodek_
+- **Way of the Turtle** The Secret Methods that Turned Ordinary People into Legendary Traders: The Secret Methods that Turned Ordinary People into Legendary Traders _Curtis Faith_
+- **The Little Book of Trading** Trend Following Strategy for Big Winnings _Michael Covel_
+- **Linchpin** Are You Indispensable? _Seth Godin_
+- **A Man for All Markets** From Las Vegas to Wall Street, How I Beat the Dealer and the Market _Edward O. Thorp_
+- **Fooled by Randomness** The Hidden Role of Chance in Life and in the Markets _Nassim Nicholas Taleb_
+- **Principles** Life and Work _Ray Dalio_
 
 ## October 2017
 

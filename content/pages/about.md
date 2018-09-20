@@ -33,7 +33,34 @@ in my free time. I value results and working code over a specific tool or method
 
 ## Work experience
 
-_I am currently_ working for **Wave** as a Fullstack Developer.
+_Previously, (March 2018 - September 2016)_ I worked at **Block Capital**,
+a very small hedge fund in the crypto space. There I got to work the very
+early stages or a trading platform and market neutral trading algorithm.
+Being on a developer team of 2 and working directly with traders on building
+out algorithms to trade the crypto markets on many exchanges I spend a lot
+of time prototyping, doing research, delving into quantitative finance math
+and dealing with a multitude of APIs (of wildly varying quality). The
+technology stack we were working with was Golang, PostgreSQL, Redis and
+Ember.js for our frontend needs. It pushed me to further my user interface
+building skill as monitoring trading algorithms and live markets requires you
+not only to handle a lot of data comming in over websocket but also display
+a lot of information in a very ergonimic way as money is on the line if any
+information is misread or misunderstood.
+
+_Previously, (February 2017 -  March 2018)_ I working at **Wave** as a
+Fullstack Developer. As part of a team called _Banking Services_ I maitained
+existing and built new services. The scale of Wave's customer base is pretty
+impressive, with more than 2 million signed up users, service and database
+design required careful consideration of the load they had to withstand.
+Dealing with baking integrations we had to wrestle with a wide range of APIs
+going from REST ones using deprecated versions of OAuth to big old SOAP ones
+with the megabytes of XML schemas and quirks they come with.
+The technology stack I worked with was Python paired with Django and PostgreSQL,
+as every engineer is expected to be at easy working on frontend and backend
+projects we also happenned to write a lot of React.js/JavaScript when working
+on the user interfaces our team was responsible for. Seeing how an individual
+can fit in a thightly knit team and how a team can fit in a large engineering
+organization (>100 developers) was enlightening.
 
 _Previously, (January 2016 - November 2016)_ I worked at **Plot.ly** as
 senior front-end developer coding and maintaining a large React.js and Redux codebase.
@@ -51,7 +78,7 @@ mostly API work with Node.js, some front-ends for internal tools and being
 the go-to operations guys managing AWS servers with Ansible & Terraform.
 
 _Previously, (September 2011 - September 2014)_ I worked for a small web-agency
-named [Ankedotes Communication](http://anekdotes.com/) as a web-developer
+named **Ankedotes Communication** as a web-developer
 shipping custom built e-commerces and creating an in house framework and modules.
 Those where very formative years in terms of client interaction, estimating, project
 scope, architecting project so that the age well and stay easy to change. I build
