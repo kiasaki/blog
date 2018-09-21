@@ -8,7 +8,8 @@ Hi there! I am Frederic Gingras.
 designed code boundaries. I am not fanboy of any specific tool or language but more of
 the right tool for the job and being able to ship quickly.**
 
-I currently live in Toronto, Canada but am often seen travelling in Europe or the East Coast.
+I am based in Toronto, Canada, come from Montreal and often work remotly for
+clients or employers.
 
 -----
 
