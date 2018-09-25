@@ -34,7 +34,10 @@ in my free time. I value results and working code over a specific tool or method
 
 ## Work experience
 
-_Previously, (March 2018 - September 2016)_ I worked at **Block Capital**,
+_Currently (since September 2018),_ I am working as a software consultant
+under the name of [Atriumph](https://www.atriumph.com/).
+
+_Previously, (March 2018 - September 2018)_ I worked at **Block Capital**,
 a very small hedge fund in the crypto space. There I got to work the very
 early stages or a trading platform and market neutral trading algorithm.
 Being on a developer team of 2 and working directly with traders on building
