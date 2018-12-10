@@ -1,36 +1,42 @@
 {{ template "partials/header.html" . }}
 
-  <div class="content container">
-    <div class="posts">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") 5 }}
-      {{ range $paginator.Pages }}
-        <div class="post">
-          <h1 class="post-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </h1>
-          <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+<div class="content container">
 
-          {{ .Content }}
-        </div>
-      {{ end }}
-    </div>
+  <div class="intro">
+    <h2>I do</h2>
 
-    <div class="pagination">
-      {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}">&larr; Previous posts</a>
-      {{ else }}
-        <span>&larr; Previous posts</span>
-      {{ end }}
+    <p>I help small B2B SaaS products deliver value to their clients faster.</p>
 
-      <span>{{ $paginator.PageNumber }}</span>
+    <p>
+      Unlike most developers that worry about the code they write, the abstractions
+      they use, the frameworks they’ve chosen, I recognise the importance of all of
+      these without making them my sole purpose. <strong>I focus on the target customers,
+      I work on figuring out if we are shipping the <i/>right</i> feature. I work on
+      making sure that existing features and new features actually work and deliver
+      value, not <i>headaches</i>.</strong>
+    </p>
 
-      {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}">Next posts &rarr;</a>
-      {{ else }}
-        <span>Next posts &rarr;</span>
-      {{ end }}
-    </div>
+    <ul>
+      <li>&#x1F3AF; <a href="/services/">Services I offer</a></li>
+      <li>&#x1F3C6; <a href="/clients/">Clients & case studies</a></li>
+      <li>&#x1F4E7; <a href="/contact/">Contact me</a></li>
+    </ul>
   </div>
 
+  <div class="intro">
+    <h2>I am</h2>
+
+    <p>A web developer who values less code, building software that ages well and thoughtfully designed code boundaries. I am not fanboy of any specific tool or language but more of the right tool for the job and being able to ship quickly.</p>
+
+    <p>I am based in Toronto, Canada, come from Montreal and often work remotly for clients or employers.</p>
+
+    <ul>
+      <li>&#x1F419; <a href="/pages/about/">More about me</a></li>
+      <li>&#x1F4DA; <a href="/pages/library/">My Library</a></li>
+      <li>&#x1F392; <a href="/pages/backpack/">My Backpack</a></li>
+    </ul>
+  </div>
+
+</div>
 
 {{ template "partials/footer.html" . }}

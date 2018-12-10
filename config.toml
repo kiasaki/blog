@@ -1,7 +1,7 @@
 baseurl = "http://fredericgingras.ca/"
 languageCode = "en-us"
 title = "Hi, I'm Frederic."
-
+pygmentsStyle = "vim"
 
 [Author]
 	name = "Frederic Gingras"

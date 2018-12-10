@@ -1,0 +1,47 @@
++++
+title = "Contact"
+url = "/contact/"
+type = "pages"
++++
+
+<p>Fill in the form below to get in contact with me or simply email me:
+<a href="mailto:frederic@gingras.cc">frederic@gingras.cc</a></p>
+
+<form class="form" method="post" action="https://www.atriumph.com/contact">
+	<div class="is-hidden"><input type="text" name="isBot"></div>
+	<div class="row">
+		<div class="col is-8">
+			<div class="field">
+				<label class="label">Name</label>
+				<input type="text" name="name" class="input is-fullwidth" value="">
+			</div>
+
+			<div class="field">
+				<label class="label">Email</label>
+				<input type="text" name="email" class="input is-fullwidth" value="">
+			</div>
+
+			<div class="field">
+				<label class="label">What do you need help with?</label>
+				<label><input type="checkbox" name="helpPrototype" value="yes">
+					Building a new application</label><br>
+				<label><input type="checkbox" name="helpSupport" value="yes">
+					Supporting an existing application</label><br>
+				<label><input type="checkbox" name="helpMentoring" value="yes">
+					Pairing &amp; mentoring</label>
+			</div>
+
+			<div class="field">
+				<label class="label">What is you budget?</label>
+				<input type="text" name="budget" class="input is-fullwidth" value="">
+			</div>
+
+			<div class="field">
+				<label class="label">Message</label>
+				<textarea name="message" class="input is-fullwidth" rows="6"></textarea>
+			</div>
+
+			<button type="submit" class="button">Send message</button>
+		</div>
+	</div>
+</form>

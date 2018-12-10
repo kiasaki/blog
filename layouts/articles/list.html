@@ -1,0 +1,36 @@
+{{ template "partials/header.html" . }}
+
+  <div class="content container">
+    <div class="posts">
+      {{ $paginator := .Paginate (where .Site.AllPages "Type" "posts") 5 }}
+      {{ range $paginator.Pages }}
+        <div class="post">
+          <h1 class="post-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h1>
+          <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }} &mdash; {{ .ReadingTime}} minutes read</span><br/>
+
+          {{ .Summary }}
+        </div>
+      {{ end }}
+    </div>
+
+    <div class="pagination">
+      {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}">&larr; Previous posts</a>
+      {{ else }}
+        <span>&larr; Previous posts</span>
+      {{ end }}
+
+      <span>Page {{ $paginator.PageNumber }}</span>
+
+      {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}">Next posts &rarr;</a>
+      {{ else }}
+        <span>Next posts &rarr;</span>
+      {{ end }}
+    </div>
+  </div>
+
+
+{{ template "partials/footer.html" . }}

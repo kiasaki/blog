@@ -14,30 +14,46 @@
 </head>
 <body>
 
+{{template "partials/icons.html" .}}
+
 <div class="header">
-  <h1><a href="/">Hi, I'm Frederic.</a></h1>
-  <h2>
-    Web Developer & Entrepreneur<br>blogging about life and programming in Node.js, Go and React.
-  </h2>
-  <div class="header__profiles">
-    <a href="https://github.com/kiasaki">Github</a> &mdash;
-    <a href="https://twitter.com/FredericGingras">Twitter</a> &mdash;
-    <a href="mailto:frederic@gingras.cc">Email</a> &mdash;
-    <a href="https://keybase.io/kiasaki">Keybase</a>
+  <div class="container">
+    <div class="header__top">
+      <nav>
+        <a href="/">Home</a>
+        <a href="/services/">Services</a>
+        <a href="/clients/">Clients</a>
+        <a href="/articles/">Articles</a>
+        <a href="/contact/">Contact</a>
+      </nav>
+      <nav>
+        <a href="https://github.com/kiasaki" class="icon" title="GitHub" target="_blank">
+          <svg><use xlink:href="#icon-github"></use></svg>
+        </a>
+        <a href="https://twitter.com/FredericGingras" class="icon" title="Twitter" target="_blank">
+          <svg><use xlink:href="#icon-twitter"></use></svg>
+        </a>
+        <a href="mailto:frederic@gingras.cc" class="icon" title="Email" target="_blank">
+          <svg><use xlink:href="#icon-envelope"></use></svg>
+        </a>
+        <a href="https://keybase.io/kiasaki" class="icon" title="Keybase" target="_blank">
+          <svg><use xlink:href="#icon-keybase"></use></svg>
+        </a>
+      </nav>
+    </div>
+    <div class="header__hero">
+      <h1><a href="/">Hi! I'm Fr&eacute;d&eacute;ric.</a></h1>
+    </div>
+    <div class="header__sub">
+      <h2>
+        Full-stack developer building SaaS businesses<br/>with Golang, Node.js and React.
+      </h2>
+      <nav>
+      </nav>
+    </div>
   </div>
 
-  <nav>
-    <ul>
-      <li><a href="/">🔥 Home</a></li>
-      <li><a href="/posts">🗄 Archives</a></li>
-      <li><a href="/pages/about/">🐙 About me</a></li>
-      <li><a href="https://www.atriumph.com/">🏆 Consulting</a></li>
-      <li><a href="/pages/library/">📚 Library</a></li>
-      <li><a href="/pages/backpack/">🎒 Backpack</a></li>
-    </ul>
-  </nav>
-
   <svg viewBox="0 0 1280 50" preserveAspectRatio="none" fill="blue">
-    <polygon points="0 0 1280 50 0 50" fill="rgb(255,255,255)"></polygon>
+    <polygon points="0 50 1280 0 1280 50" fill="rgb(255,255,255)"></polygon>
   </svg>
 </div>
