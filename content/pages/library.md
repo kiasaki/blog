@@ -17,6 +17,22 @@ on a blog so I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## February 2019
+
+- **Thinking Forth** A Language and Philosophy for Solving Problems _Leo Brodie_
+
+## January 2019
+
+- **Company of One** Why Staying Small Is the Next Big Thing for Business _Paul Jarvis_
+
+## December 2018
+
+- **Developer Hegemony** The Future of Labor _Erik Dietrich_
+
+## October 2018
+
+- **It Doesn't Have to Be Crazy at Work** _Jason Fried and David Heinemeier Hansson_
+
 ## August 2018
 
 - **Trend Following** How to Make a Fortune in Bull, Bear, and Black Swan Markets _Michael W. Covel_
