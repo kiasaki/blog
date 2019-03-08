@@ -3,18 +3,3 @@
 literal:"true false null",built_in:"array bigint binary bit blob boolean char character date dec decimal float int int8 integer interval number numeric real record serial serial8 smallint text varchar varying void"},c:[{cN:"string",b:"'",e:"'",c:[e.BE,{b:"''"}]},{cN:"string",b:'"',e:'"',c:[e.BE,{b:'""'}]},{cN:"string",b:"`",e:"`",c:[e.BE]},e.CNM,e.CBCM,t]},e.CBCM,t]}}),e});
 
 hljs.initHighlightingOnLoad();
-
-
-/* Gaug.es init */
-var _gauges = _gauges || [];
-(function() {
-  var t   = document.createElement('script');
-  t.type  = 'text/javascript';
-  t.async = true;
-  t.id    = 'gauges-tracker';
-  t.setAttribute('data-site-id', '51af9df0613f5d77fd000094');
-  t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
-  t.src = 'https://track.gaug.es/track.js';
-  var s = document.getElementsByTagName('script')[0];
-  s.parentNode.insertBefore(t, s);
-})();

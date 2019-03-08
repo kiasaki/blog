@@ -17,6 +17,10 @@ on a blog so I did the same on mine :D
 - **Chaos Monkeys** Obscene fortune and random failure in Silicon Valley _Atonio García Martínez_
 - **Founders at Work** Series of startups' early days _Jessica Livingston_
 
+## March 2019
+
+- **Marketing: A Love Story** How to Matter to Your Customers _Bernadette Jiwa_
+
 ## February 2019
 
 - **Thinking Forth** A Language and Philosophy for Solving Problems _Leo Brodie_

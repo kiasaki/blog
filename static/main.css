@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:200,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,500,500i,700');
 
 body, html { font-size: 20px; margin: 0; color: #555555; }
-body { font-family: 'IBM Plex Sans', "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.5; }
+body { font-family: 'Ubuntu', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5; }
 
 * { box-sizing: border-box; }
 
@@ -48,27 +48,44 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th { background-color: #f9f9
 @media screen and (min-width: 768px) { .container { width: 700px; } }
 @media screen and (min-width: 1000px) { .container { width: 800px; } }
 
-.header { background-color: #A463F2; background-image: url(/images/background.png); color: #fff; padding-top: 1rem;
-  background-position: center; background-size: cover; }
+.header {
+  color: #fff;
+  padding-top: 1rem;
+  background-color: #A463F2;
+  background-image: url('/images/background.png');
+  background-position: center;
+  background-size: cover;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 .header .icon { color: #EFE3FD; }
 .header .icon:hover { color: rgba(255,255,255,0.6); }
 .header h1 { font-size: 1.75rem; margin: 2rem 0; }
 .header h1 a { color: #EFE3FD; }
 .header h2 { font-size: 1.2rem; font-weight: 300; color: rgba(255, 255, 255, 0.75); margin: 0 0 1rem; }
 .header__top { display: flex; }
-.header nav { flex: 1 1; }
+.header nav:first-child { flex-grow: 1; }
 .header nav:last-child { text-align: right; }
 .header nav a { color: #EFE3FD; font-size: 1rem; display: inline-block; margin: 0.25rem; }
 .header nav:first-child a { border-bottom: 3px solid rgba(255,255,255,0.5); }
 .header nav:first-child a:hover { border-bottom: 3px solid #EFE3FD; text-decoration: none; }
-.header svg { display: block; }
+.header svg { display: block; margin: 0 -1px -1px 0; }
 
-.intro { border-radius: 3px; border: 2px solid #454F5B; background: #212B36; padding: 1rem; margin: 2rem 0; color: #ffffff; }
-.intro h2 { font-weight: bold; color: #ffffff; margin-top: 0; }
-.intro strong { color: #ffffff; }
+.intro {
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 2px 0 #ccc;
+  border: 2px solid #f4f4f4;
+  background: #f4f4f4;
+  padding: 1rem;
+  margin: 2rem 0;
+  color: #454F5B;
+}
+.intro h2 { font-weight: bold; color: hsl(274, 87%, 31%); margin-top: 0; }
+.intro strong { color: #454F5B; }
 .intro a { color: #C095F7; text-decoration: underline; }
 .intro a:hover { text-decoration: none; }
 
+.project { margin-bottom: 4rem; }
 .project h2 { font-weight: 300; }
 .project__images { display: flex; padding: 0.5rem 0 0.5rem 0.5rem; background: #333; border-radius: 3px; margin-bottom: 0.5rem; }
 .project__images a { margin-right: 0.5rem; height: 120px; display: block; flex: 0 1 25%; }
