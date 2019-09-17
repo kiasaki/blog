@@ -16,12 +16,10 @@ and lifestyles.
 
 - Duffel bag ([Rains - Zip Bag](https://www.rains.dk/collections/bags-accessories/products/zip-bag?variant=21506599425))
     - Travel Towel (Sea To Summit - Dry Lite)
-    - Leather Sandals ([Earth Runner - Circadian X](http://www.earthrunners.com/products/circadian-x))
+    - Leather Sandals ([Chaco - Mega Z/Cloud](https://www.chacos.com/US/en/mega-z-cloud/35674M.html))
     - Cables Bag
         - Power Bar compact 4 outlets
         - Power Adapter NA->EU
-        - Adapter: Mini-DisplayPort to DVI (Apple)
-        - Adapter: USB to Ethernet (Apple)
         - USB Key (Samsung - 64GB)
         - Lip balm (Nivea For Men - Active Care)
     - Compression Bag
@@ -42,8 +40,8 @@ and lifestyles.
         - Razor
 - Backpack ([Timbuk2 - Especial Primo Waterproof](http://www.timbuk2.com/primo-waterproof-backpack/486-3-2000.html)
     - Passports (Canada & Poland)
-    - Cellphone (iPhone SE) (w/ charger)
-    - Laptop (Apple - 2015 MacBook Pro 13’) (w/ charger)
+    - Cellphone (Xiaomi Mi A2 Lite) (w/ charger)
+    - Laptop (Lenovo Thinkpad 13) (w/ charger)
     - Headphones (Bose - QC25)
     - Laptop stand (Roost 2)
     - Keyboard (iKBC - New Poker II)
