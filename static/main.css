@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,500,500i,700');
 
 body, html { font-size: 20px; margin: 0; color: #555555; }
-body { font-family: 'Ubuntu', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5; }
+body { font-family: 'Ubuntu', 'Helvetica Neue', Helvetica, Arial, sans-serif, "Noto Color Emoji"; line-height: 1.5; }
 
 * { box-sizing: border-box; }
 
