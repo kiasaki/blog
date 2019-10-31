@@ -53,7 +53,7 @@ With that in mind,
 - Define the goals of the startup
 - Define features that are musts and other that are nice idea for the future
 - Talk about design decisions and how to delight users more generally
-- Go found-raising when it's time and if it's right for them
+- Go fund-raising when it's time and if it's right for them
 - Moral support!
 
 _TL; DR;_ For any startup time is their most valuable resource, it's their life

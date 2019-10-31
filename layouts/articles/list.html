@@ -2,7 +2,7 @@
 
   <div class="content container">
     <div class="posts">
-      {{ $paginator := .Paginate (where .Site.AllPages "Type" "posts") 5 }}
+      {{ $paginator := .Paginate (where (where .Site.AllPages "Section" "posts") "Kind" "page") 5 }}
       {{ range $paginator.Pages }}
         <div class="post">
           <h1 class="post-title">

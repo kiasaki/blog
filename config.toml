@@ -1,4 +1,4 @@
-baseurl = "http://fredericgingras.ca/"
+baseurl = "https://fredericgingras.ca/"
 languageCode = "en-us"
 title = "Hi, I'm Frederic."
 pygmentsStyle = "vim"
@@ -8,10 +8,6 @@ pygmentsStyle = "vim"
 
 [Permalinks]
 	posts = "/:year/:month/:slug"
-
-[Taxonomies]
-	tag = "tags"
-	series = "series"
 
 [Params]
 	twitter = "https://twitter.com/fredericgingras"

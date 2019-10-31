@@ -18,7 +18,7 @@ Those two question can and must be answered before starting to build anything or
 
 ---
 
-Then it goes on, I ask him what exactly his _algorithm_ is solving, or even, what does it do? Straight away he’s reluctant, he doesn’t want to tell me! After turning around the pot for a while end up giving me something: _”It’s an algorithm that is aimed at saving people driving to work everyday for significant distances (more than 10km) time”_, by what, finding the fastest route?, like better than Google Maps which has tons of talented engineers doing just that? It’s difficult imagining this being a million dollar idea. Except, he really thought he had hit the jackpot he simply needed to pass Go collect it.
+Then it goes on, I ask him what exactly his _algorithm_ is solving, or even, what does it do? Straight away he’s reluctant, he doesn’t want to tell me! After skirting the subject for a while he ends up giving me something: _”It’s an algorithm that is aimed at saving people driving to work everyday for significant distances (more than 10km) time”_, by what, finding the fastest route?, like better than Google Maps which has tons of talented engineers doing just that? It’s difficult imagining this being a million dollar idea. Except, he really thought he had hit the jackpot he simply needed to pass Go collect it.
 
 **The second mistake**, is protecting your idea like it’s worth something. Ideas a great but you are often not the only one to have the same. However unique you think you are, innovation by inventing something completely new is really rare nowadays. Most startups are either; a mix of two existing concepts that put together makes something novel or; a new spin on an existing idea. You need to let people know about your idea, their feedback is invaluable, talk about it to everyone and keep in mind: **Nobody will steal your specific idea because only you are passionate about it enough to take the plunge and work on it full time.** You could argue plenty of good idea were stolen, I would argue those stealer had a similar idea on their own, that’s it.
 
@@ -26,6 +26,6 @@ Then it goes on, I ask him what exactly his _algorithm_ is solving, or even, wha
 
 ---
 
-Finally I asked him how would that benefit the end user, concretely? He promptly answered with a _”I can’t tell you that, that would be telling you too much!”_. That leaves me wondering he he will market his solution. Here, I am selling you this cardboard box, I will do you great good, it’s priced at 100$, but sadly I can’t tell you what’s in there, that’s my secret sauce! I could just buy one in front of him and display it in front of everybody wondering what it actually is!
+Finally I asked him how would that benefit the end user, concretely? He promptly answered with a _”I can’t tell you that, that would be telling you too much!”_. That leaves me wondering how he will market his solution. Here, I am selling you this cardboard box, I will do you great good, it’s priced at 100$, but sadly I can’t tell you what’s in there, that’s my secret sauce! I could just buy one in front of him and display it in front of everybody wondering what it actually is!
 
 I any case, I hope this was interesting and helpful.

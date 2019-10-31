@@ -44,7 +44,7 @@ Following the same mindset here is what I am learning right now:
   help from anybody out there, and that is great.
 
 - **TDD**<br/>
-  As a disclaimer, *TDD* is difficult, wrinting it demands a little bit of thinking. But,
+  As a disclaimer, *TDD* is difficult, writing it demands a little bit of thinking. But,
   I think that is exactly what makes it so good for your codebase, before writting any
   models or domain logic you think, what do I really want in the end?
 

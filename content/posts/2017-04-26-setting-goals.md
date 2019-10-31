@@ -31,13 +31,3 @@ months, and years to come.
 
 That's it. Stop wishing  and start moving by being deliberate about your goals,
 writing them down, and acting on them.
-
-
-
-_This post is best enjoyed while listening to Time from Hans Zimmer at very
-high volume. :P_
-
-_To break out of character a bit... I am not used to writing those kind of
-inspirational posts but I do enjoy that kind of content from time to time. So I
-am trying my hand at it. Sometimes it's exactly what you need to set yourself
-back on track ;)_

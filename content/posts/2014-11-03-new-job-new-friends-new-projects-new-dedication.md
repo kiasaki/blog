@@ -8,7 +8,7 @@ Yes, this blog post is about me starting a new job. I have been hired as **Full-
 
 Not so long ago (1 month back) I was leaving my job at **[Anekdotes](http://www.anekdotes.com)** but don't be mislead I took the time to ensure that where I was going to work next was really a place where I wished working for and at.
 
-That month or two where I was "un-employed" went away _SO_ fast. I made sure to fill them up with meeting nice people, hanging out in co-working space's, attending events in Montreal's tech scene and working on and MVP for a startup.
+That month or two where I was un-employed went away _SO_ fast. I made sure to fill it up with meeting nice people, working from co-working space's, attending events in Montreal's tech scene and working on an MVP for a startup with old friends.
 
 Busbud came out, compared to other contenders:
 

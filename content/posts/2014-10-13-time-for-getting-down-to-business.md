@@ -4,17 +4,18 @@ date = "2014-10-13"
 slug = "getting-down-to-business"
 +++
 
-This post is about moving on and things to come! Two weeks ago I quitted my job.
-This has been a hell of a ride uphill and I have learned tons about clients, e-commerce,
-SEO, caring for UX and thinking about feature you build, managing projects and expectations.
-Apart from that, while working at Anekdotes and going to school I worked on plenty of personnal
-projects and read tons to improove my web developper skills. I have always been passionate and
-amazed at how much the tech world has to offer in terms of learning opportinities! I love it!
+This post is part an anouncement that I left full time employment and am looking for what's next 
+and part tips on being a good entrepreneur. It has been quite the uphill battale, I have learned
+a lot about clients, e-commerce, SEO, caring for UX and thinking about features you build,
+managing projects and expectations. Apart from that, while working at Anekdotes and going to
+school I worked on plenty of personnal projects and read a lot to improove my web developper
+skills. I have always been passionate and amazed at how much the tech world has to offer in
+terms of learning opportinities! I love it!
 
-But today, I feel like there more I could do, I read more and more about business, startups,
-and lifestyle design and all that vibes in unison with the way I think and what I wish to do.
+Today, I feel like there is more I could do, I read more and more about business, startups,
+and lifestyle design and all that matches with the way I think and what I wish to do.
 So what comes next is more learning oppotunities, meeting alot of new people and working on
-projects I am passionate about.
+projects I am passionate about for all kinds of entrepreneurs.
 
 I once read a blog post from [Adii Pienaar](http://adii.me) that listed the 5 steps to becoming
 a better entrepreneur:

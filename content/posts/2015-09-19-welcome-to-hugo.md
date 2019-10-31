@@ -5,8 +5,9 @@ slug = "welcome-to-hugo"
 +++
 
 It's been a little while I wanted to switch to a new bloging platform. My old
-solution was a tool a built myself (often unwise when a lot already exists) and
-was pretty basic. It got the job done, but did really have space for growth.
+solution was a tool a built myself (often unwise when a lot of proven solutions 
+already exists) and was pretty basic. It got the job done, but did really have
+space for growth.
 
 I am now joining the ranks of people using the _static website generator_ called
 **[Hugo](http://gohugo.io)**. Advantages it encompasses go from blazing fast

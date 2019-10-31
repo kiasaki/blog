@@ -1,0 +1,19 @@
+{{ template "partials/header.html" . }}
+
+  <div class="content container">
+    <h1 class="title">Blog Post Archive</h1>
+    <ul class="posts">
+      {{ range (where (where .Site.AllPages "Section" "posts") "Kind" "page") }}
+        <li style="display:flex;">
+          <div style="flex: 1 1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+            <a href="{{ .Permalink }}" title="{{ .Title }}">{{if .Draft}}[draft] {{end}}{{ .Title }}</a>
+          </div>
+          <div style="flex: 0 0 120px;text-align: right;">
+            <time>{{ .Date.Format "2006-01-02" }}</time>
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+
+{{ template "partials/footer.html" . }}

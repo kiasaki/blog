@@ -5,8 +5,9 @@ slug = "equality-of-languages"
 +++
 
 The more I learn new languages, the more debates about who's language is more performant or just
-better, no reasons given, the more I think that every language is totaly viable for most of the
-tasks/projects. Especially in the web development world!
+better I see. Often no reasoning is given. This makes me think that every language is totaly viable
+for most of the tasks/projects, only different people have different preferences and affinities.
+Especially in the web development world!
 
 Having used PHP, C#, Java, VBScript, XSLT, Javascript, Ruby, Scala and seeing Go, Python, Rust,
 C, C++, Objective-C Elixir, Clojure, Haskell all going to war I caught myself thinking that those

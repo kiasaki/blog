@@ -10,7 +10,7 @@ This feeling is even more prevalent in the IT field where, I you sit on what you
 
 I am infinitely grateful for what I have accomplished and where I am at but when people say I am lucky or ask me simply, how?, I always answer:
 
-> It’s simple, to become a world-class performer you need to never stop doing two things: put in hours and constantly surpass your limits (even by little)
+> It’s simple, to become a world-class performer you need to never stop doing two things: put in hours and constantly surpass your limits (even if just by a little)
 
 And that second part is what makes it possible for someone with 5 years to be 10x better than someone with 20 years of experience. What makes you better and better is what researchers call _deliberate practice_, the act of practicing over and over what’s core to your skill or craft, it’s not the fun part like a piano concert but that part that people call _grinding_, playing the same piano song over and over while paying attention to what you are doing wrong and on what you can improve.
 
