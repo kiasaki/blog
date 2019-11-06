@@ -1,0 +1,22 @@
+{{!< default}}
+{{> header}}
+
+{{#post}}
+<main class="main_minimal" role="main">
+    <article class="article_minimal" role="article">
+        
+        <header class="postHeader_minimal">
+            <h1 class="post__title">{{title}}</h1>
+        </header>
+
+        <section class="post__content-wrapper">
+            <div class="post__content">
+                {{content}}
+            </div>
+        </section>
+        
+    </article>
+</main>
+{{/post}}
+
+{{> footer}}

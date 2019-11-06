@@ -1,12 +1,17 @@
-# My own little blog
+# Frederic Gingras's Blog & Personal Website
 
-This blog used to be plain old html files
+This blog used to be plain old html files...
 
-Then it became a Jekyll blog for a good part of it's life but wanting some change
-and no dependency on ruby to build it but still whishing for it to live on GitHub
-pages...
+Then it became a Jekyll blog...
 
-Then it used a tiny tool called [muun](http://github.com/kiasaki/muun).
-A simple static blog generator written in Go.
+Then it used a tiny tool called [muun](http://github.com/kiasaki/muun)...
 
-Now it uses [Hugo](http://gohugo.io).
+Then it used [Hugo](http://gohugo.io)...
+
+Now it's using Ghost.
+
+# In this repository
+
+- `hugo-based`: The Hugo files that were last used to generate this site
+- `kiasaki-theme`: The theme I am using for Ghost
+- `deployment.yml`: The file I use to delpoy Ghost to Kubernetes 

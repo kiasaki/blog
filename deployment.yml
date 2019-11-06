@@ -1,0 +1,78 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: fredericgingrasca-content
+spec:
+  accessModes:
+  - ReadWriteOnce
+  resources:
+    requests:
+      storage: 2Gi
+  storageClassName: local-path
+---
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: fredericgingrasca
+  namespace: default
+  labels:
+    app: fredericgingrasca
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fredericgingrasca
+  template:
+    metadata:
+      labels:
+        app: fredericgingrasca
+    spec:
+      containers:
+      - name: fredericgingrasca
+        image: ghost:3.0.2-alpine
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 2368
+        env:
+        - name: url
+          value: https://www.fredericgingras.ca
+        volumeMounts:
+        - mountPath: /var/lib/ghost/content
+          name: content
+      volumes:
+      - name: content
+        persistentVolumeClaim:
+          claimName: fredericgingrasca-content
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: fredericgingrasca
+  namespace: default
+  labels:
+    app: fredericgingrasca
+spec:
+  ports:
+  - name: http
+    targetPort: 2368
+    port: 80
+  selector:
+    app: fredericgingrasca
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: fredericgingrasca
+  labels:
+    app: fredericgingrasca
+  annotations:
+    kubernetes.io/ingress.class: "traefik"
+spec:
+  rules:
+  - host: www.fredericgingras.ca
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: fredericgingrasca
+          servicePort: http

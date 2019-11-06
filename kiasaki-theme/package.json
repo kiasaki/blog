@@ -1,0 +1,16 @@
+{
+    "name": "kiasaki-theme",
+    "description": "My personal theme based on Callisto",
+    "version": "0.1.0",
+    "engines": {
+        "ghost-api": "v3"
+    },
+    "license": "MIT",
+    "author": {
+        "email": "frederic@gingras.cc"
+    },
+    "config": {
+        "posts_per_page": 5,
+        "image_sizes": {}
+    }
+}
