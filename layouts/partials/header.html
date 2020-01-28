@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>{{ .Title }} {{if ne .Title .Site.Title}} &middot; {{ .Site.Title }}{{end}}</title>
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" type="text/css" href="/screen.css" />
+  <link rel="stylesheet" type="text/css" href="/global.css" />
+  <link href="https://fonts.googleapis.com/css?family=Cairo:400,700&display=swap" rel="stylesheet">
+  <link href="{{with .OutputFormats.Get "RSS"}}{{.RelPermalink}}{{end}}"
+    rel="alternate" type="application/rss+xml" title="{{.Site.Title}}" />
+</head>
+<body>
+  <div class="wrapper_minimal">
+    <header class="header" role="banner">
+      <h1 class="header__title">
+        <a title="{{.Site.Title}}" href="{{.Site.BaseURL}}">{{.Site.Title}}</a>
+      </h1>
+      <nav class="header__nav" role="navigation">
+        {{template "partials/navigation.html" .}}
+      </nav>
+    </header>

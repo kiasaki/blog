@@ -1,0 +1,38 @@
+{{template "partials/header.html" .}}
+
+<div class="home__hero">
+  {{.Site.Params.hero}}
+</div>
+
+<main class="main_minimal" role="main">
+  {{ range .Paginator.Pages }}
+    <article class="card" role="article">
+      <div class="card__content">
+        <header>
+          <h2 class="card__title"><a href="{{.Permalink}}">{{.Title}}</a></h2>
+        </header>
+        <div class="card__desc">
+          <a href="{{.Permalink}}">{{.Summary}}</a>
+        </div>
+        <time class="date" datetime="{{.Date.Format "2 Jan 2006"}}">{{.Date.Format "2 Jan 2006"}}</time>
+      </div>
+    </article>
+  {{end}}
+</main>
+
+{{template "partials/pagination.html" .}}
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function(user) {
+      if (!user) {
+        window.netlifyIdentity.on("login", function() {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+{{template "partials/footer.html" .}}

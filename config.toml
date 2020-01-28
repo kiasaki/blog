@@ -1,0 +1,34 @@
+baseurl = "https://tulsidin.ca/"
+languageCode = "en-us"
+title = "Hi! I'm Frédéric."
+pygmentsStyle = "vim"
+summaryLength = 33
+# SectionPagesMenu = "main"
+
+[Author]
+	name = "Frederic Tulsidin"
+
+[Permalinks]
+	pages = "/:slug"
+	posts = "/:year/:month/:slug"
+
+[Params]
+  hero = "Full-stack developer building SaaS businesses with Golang, Node.js and React."
+
+[menu]
+[[menu.main]]
+  name = "About me"
+  url = "/about/"
+  weight = 1
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 2
+[[menu.main]]
+  name = "Clients"
+  url = "/clients/"
+  weight = 3
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 4

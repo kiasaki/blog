@@ -1,0 +1,16 @@
+{{template "partials/header.html" .}}
+
+<main class="main_minimal" role="main">
+  <article class="article_minimal" role="article">
+    <header class="postHeader_minimal">
+      <h1 class="post__title">{{.Title}}</h1>
+    </header>
+    <section class="post__content-wrapper">
+      <div class="post__content">
+        {{.Content}}
+      </div>
+    </section>
+  </article>
+</main>
+
+{{template "partials/footer.html" .}}

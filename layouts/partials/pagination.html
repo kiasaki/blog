@@ -1,0 +1,9 @@
+<nav class="pagination" role="pagination">
+  {{if .Paginator.HasPrev}}
+    <a class="pagination__link-next pagination__link" href="{{.Paginator.Prev.URL}}">← Previous posts</a>
+  {{end}}
+  {{if .Paginator.HasNext}}
+    <a class="pagination__link-prev pagination__link" href="{{.Paginator.Next.URL}}">More posts →</a>
+  {{end}}
+  <div class="clear"></div>
+</nav>

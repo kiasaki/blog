@@ -1,0 +1,24 @@
+{{template "partials/header.html" .}}
+
+<div class="home__hero">
+  {{.Content}}
+</div>
+
+<main class="main_minimal" role="main">
+  {{ range .Paginator.Pages }}
+    <article class="card" role="article">
+      <div class="card__content">
+        <header>
+          <h2 class="card__title"><a href="{{.Permalink}}">{{.Title}}</a></h2>
+        </header>
+        <div class="card__desc">
+          <a href="{{.Permalink}}">{{.Summary}}</a>
+        </div>
+        <time class="date" datetime="{{.Date.Format "2 Jan 2006"}}">{{.Date.Format "2 Jan 2006"}}</time>
+      </div>
+    </article>
+  {{end}}
+</main>
+
+{{template "partials/pagination.html" .}}
+{{template "partials/footer.html" .}}
