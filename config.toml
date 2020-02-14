@@ -1,9 +1,13 @@
-baseurl = "https://tulsidin.ca/"
+baseurl = "https://www.tulsidin.ca/"
 languageCode = "en-us"
 title = "Hi! I'm Frédéric."
-pygmentsStyle = "vim"
+pygmentsUseClasses = true
+paginate = 5
 summaryLength = 33
 # SectionPagesMenu = "main"
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [Author]
 	name = "Frederic Tulsidin"

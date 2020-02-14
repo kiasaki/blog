@@ -3,9 +3,9 @@ title = "Clients"
 slug = "clients"
 +++
 
-<div class="project">
-<h2>CrewFire</h2>
-<div class="project__images">
+## CrewFire
+
+<div class="gallery">
   <a href="/images/clients/crewfire/homepage.png" target="_blank">
     <img src="/images/clients/crewfire/homepage.png" />
   </a>
@@ -36,11 +36,11 @@ product on the daily and deal with all the facets of such a position like:
 suporting clients, infrastructure, neverending backlog of improvement, thorny
 bugs to troubleshoot, reasearch and development, marketing.
 
-</div>
+---
 
-<div class="project">
-<h2>PopSQL</h2>
-<div class="project__images">
+## PopSQL
+
+<div class="gallery">
   <a href="/images/clients/popsql/homepage.png" target="_blank">
     <img src="/images/clients/popsql/homepage.png" />
   </a>
@@ -66,11 +66,11 @@ expertise with React.js and Redux to a large and complex codebase. It aslo
 was a good experience in debugging non-obvious cross platform bugs as the same
 JavaScript codebase needs to work on MacOS, Window, Linux and the web.
 
-</div>
+---
 
-<div class="project">
-<h2>Chainfuel</h2>
-<div class="project__images">
+## Chainfuel
+
+<div class="gallery">
   <a href="/images/clients/chainfuel/homepage.png" target="_blank">
     <img src="/images/clients/chainfuel/homepage.png" />
   </a>
@@ -99,11 +99,9 @@ gather analytics as well as generate engagement. To that end it offers various
 tools like a CRM for all of you chat room's users, analytics on sign ups and
 messages, anti-spam tools, quizzes and events generating engagement.
 
-</div>
+---
 
-<div class="project">
-<h2>LambdaGrid</h2>
-<div></div>
+## LambdaGrid
 
 **Project Type:** Building an MVP as an open-source library<br/>
 **Technologies:** `Node.js`, `TypeScript`, `PostgreSQL`
@@ -118,12 +116,11 @@ familiar with that technology stack. Later there are plans for making this
 MVP in a fully-fleged hosted solution people can sign up for in a self-service
 fashion.
 
+---
 
-</div>
+## SunkenStone
 
-<div class="project">
-<h2>SunkenStone</h2>
-<div class="project__images">
+<div class="gallery">
   <a href="/images/clients/sunkenstone/create.png" target="_blank">
     <img src="/images/clients/sunkenstone/create.png" />
   </a>
@@ -156,11 +153,11 @@ style that form each time.
 It was a great occasion to build yet another embeddable JavaScript widget and
 a great occasion to work with Amazon's MWS for the first time.
 
-</div>
+---
 
-<div class="project">
-<h2>Plot.ly</h2>
-<div class="project__images">
+## Plot.ly
+
+<div class="gallery">
   <a href="/images/clients/plotly/files.png" target="_blank">
     <img src="/images/clients/plotly/files.png" />
   </a>
@@ -191,11 +188,11 @@ All while working on paying down technical debt I got to mentor a few of the
 more junior team members and help them onboard and learn the best practices
 for large React.js single page applications.
 
-</div>
+---
 
-<div class="project">
-<h2>Testimonial Guard</h2>
-<div class="project__images">
+## Testimonial Guard
+
+<div class="gallery">
   <a href="/images/clients/testimonialguard/signup.png" target="_blank">
     <img src="/images/clients/testimonialguard/signup.png" />
   </a>
@@ -219,4 +216,3 @@ The Testimonial Guard founders had been through a lot before contacting me. They
 
 The goals were clear, the features needed for launch where thought through, Testimonial Guard simply wanted to hit the market fast while still having a solid foundation on which they could easily add features and that's exactly what we delivered.
 
-</div>

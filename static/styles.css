@@ -1,0 +1,143 @@
+:root {
+  --primary: #a463f2;
+  --gray-darkest: #2b2b2b;
+  --gray-dark: #333333;
+  --gray: #6b6b6b;
+  --gray-light: #d1d1d1;
+  --gray-lightest: #fafafa;
+}
+html { margin: 0; font-size: 100%; font-family: 'Cairo', sans-serif; }
+body { font-size: 1.25rem; line-height: 1.5; color: var(--gray-dark); text-rendering: optimizeLegibility; }
+a { text-decoration: none; color: var(--gray-darkest); }
+a:hover { color: var(--primary); }
+img { max-width: 100%; }
+p, ul, ol, dl { margin: 0 0 1.5rem 0; }
+ul, ol { padding-left: 1rem; list-style-type: square; }
+li { margin: 0 0 0.15em 1rem; padding-left: 0.25rem; }
+blockquote { margin: 0 0 1.5em; padding: 0 1.5rem; font-style: italic; }
+blockquote p:last-child { margin-bottom: 0; }
+h1, h2, h3, h4, h5, h6 { line-height: 1.25; margin: 1.1rem 0 0.9rem 0; font-weight: 600; }
+h1 { margin: 1.5em 0 0.6em 0; font-size: 1.55rem; }
+h2 { margin: 1.5em 0 0.5em 0; font-size: 1.45rem; }
+h3 { margin: 0.6rem 0 0.5rem 0; font-size: 1.24rem; }
+hr { margin: 2rem 0; border: 0; border-top: 1px solid var(--gray-light); }
+@media (max-width: 500px) {
+  h1 { font-size: 1.35rem; }
+  h2 { font-size: 1.15rem; }
+  h3 { font-size: 1.15rem; }
+  body { font-size: 1.15rem; line-height: 1.5; }
+}
+.container { margin: 0 auto; max-width: 700px; padding: 0 2rem; }
+@media (max-width: 500px) { .container { padding: 0 4vw; } }
+.button { background: var(--primary); padding: 0.35rem 1rem; color: white; display: inline-block; }
+.button:hover { color: white; opacity: 0.8; }
+.header { display: flex; align-items: center; flex-wrap: wrap; padding: 1.2rem 0; }
+.header h1 a:hover { opacity: 0.9; color: white; }
+.header-nav { display: flex; margin-left: auto; }
+.header-nav a {
+  color: var(--grey-dark);
+  margin-left: 2rem;
+  font-size: 1rem;
+  border-bottom: 1px solid transparent;
+  white-space: nowrap;
+}
+.header-nav a:hover { color: var(--primary); border-bottom: 1px solid var(--primary); }
+@media (max-width: 500px) { .header-nav a { margin-left: 1.2rem; } }
+.hero {
+  margin: -2rem 0 4rem;
+  padding: 4rem 1rem;
+  text-align: center;
+  font-size: 2rem;
+  background: var(--gray-lightest);
+}
+.post-nav { background: var(--gray-lightest); margin: 0 calc(50% - 50vw); }
+.post-nav-container { margin: 0 auto; padding: 7rem 2rem; max-width: 700px; }
+.post-nav-label { text-transform: uppercase; letter-spacing: 0.05em; }
+.post-nav-icon-left { position: absolute; left: -42px; top: 22px; height: 0; }
+.post-nav-icon-right { position: absolute; right: -36px; top: 22px; height: 0; }
+.gallery { background: var(--gray-darkest); padding: 0.5rem 0.5rem 0.5rem 0; display: flex; margin: 0 0 1rem; }
+.gallery a { display: block; flex: 1 0; margin-left: 0.5rem; height: 8rem; }
+.gallery a img { height: 100%; object-fit: cover; }
+.content code { padding: 0 5px 2px; font-size: 1rem; background: var(--gray-lightest); }
+.content h2:first-child { margin-top: 0; }
+.content pre {
+  overflow-x: auto;
+  margin: 0 0 2rem;
+  padding: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.25;
+  background: var(--gray-lightest);
+}
+.content pre code {
+  padding: 0;
+  background: inherit;
+}
+
+.white { color: white; }
+.gray { color: var(--gray); }
+.hover-gray:hover { color: var(--gray); }
+.primary { color: var(--primary); }
+.bg-primary { background: var(--primary); }
+.f1 { font-size: 2.4rem; }
+.f3 { font-size: 1.5rem; }
+.f4 { font-size: 1.2rem; }
+.f5 { font-size: 1rem; }
+.f6 { font-size: 0.85rem; }
+.b { font-weight: bold; }
+.tr { text-align: right; }
+.relative { position: relative; }
+.db { display: block; }
+.flex { display: flex; }
+.flex-1 { flex: 1; }
+.flex-column { flex-direction: column; }
+.ma0 { margin: 0; }
+.mb0 { margin-bottom: 0; }
+.mb2 { margin-bottom: 0.5rem; }
+.mb4 { margin-bottom: 2rem; }
+.mb6 { margin-bottom: 4rem; }
+.ph3 { padding-left: 1rem; padding-right: 1rem; }
+.pv4 { padding-top: 2rem; padding-bottom: 2rem; }
+.pv5 { padding-top: 3rem; padding-bottom: 3rem; }
+
+/* Background */ .chroma { background-color: #ffffff }
+/* Error */ .chroma .err {  }
+/* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+/* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+/* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+/* LineNumbersTable */ .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em;color: #7f7f7f }
+/* LineNumbers */ .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em;color: #7f7f7f }
+/* Keyword */ .chroma .k { color: #0000ff }
+/* KeywordConstant */ .chroma .kc { color: #0000ff }
+/* KeywordDeclaration */ .chroma .kd { color: #0000ff }
+/* KeywordNamespace */ .chroma .kn { color: #0000ff }
+/* KeywordPseudo */ .chroma .kp { color: #0000ff }
+/* KeywordReserved */ .chroma .kr { color: #0000ff }
+/* KeywordType */ .chroma .kt { color: #2b91af }
+/* NameClass */ .chroma .nc { color: #2b91af }
+/* LiteralString */ .chroma .s { color: #a31515 }
+/* LiteralStringAffix */ .chroma .sa { color: #a31515 }
+/* LiteralStringBacktick */ .chroma .sb { color: #a31515 }
+/* LiteralStringChar */ .chroma .sc { color: #a31515 }
+/* LiteralStringDelimiter */ .chroma .dl { color: #a31515 }
+/* LiteralStringDoc */ .chroma .sd { color: #a31515 }
+/* LiteralStringDouble */ .chroma .s2 { color: #a31515 }
+/* LiteralStringEscape */ .chroma .se { color: #a31515 }
+/* LiteralStringHeredoc */ .chroma .sh { color: #a31515 }
+/* LiteralStringInterpol */ .chroma .si { color: #a31515 }
+/* LiteralStringOther */ .chroma .sx { color: #a31515 }
+/* LiteralStringRegex */ .chroma .sr { color: #a31515 }
+/* LiteralStringSingle */ .chroma .s1 { color: #a31515 }
+/* LiteralStringSymbol */ .chroma .ss { color: #a31515 }
+/* OperatorWord */ .chroma .ow { color: #0000ff }
+/* Comment */ .chroma .c { color: #008000 }
+/* CommentHashbang */ .chroma .ch { color: #008000 }
+/* CommentMultiline */ .chroma .cm { color: #008000 }
+/* CommentSingle */ .chroma .c1 { color: #008000 }
+/* CommentSpecial */ .chroma .cs { color: #008000 }
+/* CommentPreproc */ .chroma .cp { color: #0000ff }
+/* CommentPreprocFile */ .chroma .cpf { color: #0000ff }
+/* GenericEmph */ .chroma .ge { font-style: italic }
+/* GenericHeading */ .chroma .gh { font-weight: bold }
+/* GenericPrompt */ .chroma .gp { font-weight: bold }
+/* GenericStrong */ .chroma .gs { font-weight: bold }
+/* GenericSubheading */ .chroma .gu { font-weight: bold }

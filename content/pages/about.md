@@ -50,7 +50,7 @@ not only to handle a lot of data comming in over websocket but also display
 a lot of information in a very ergonimic way as money is on the line if any
 information is misread or misunderstood.
 
-_Previously, (February 2017 -  March 2018)_ I working at **Wave** as a
+_Previously, (February 2017 -  March 2018)_ I worked at **Wave** as a
 Fullstack Developer. As part of a team called _Banking Services_ I maitained
 existing and built new services. The scale of Wave's customer base is pretty
 impressive, with more than 2 million signed up users, service and database
@@ -88,6 +88,7 @@ scope, architecting project so that the age well and stay easy to change. I buil
 all kinds: inventory management, service request forms, dynamic sliders and animations,
 e-commerce functionalities and all kind of back office tools for small local businesses.
 
+---
 
 ## Technology experience
 

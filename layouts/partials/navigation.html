@@ -1,5 +1,0 @@
-{{if .Site.Menus.main}}
-  {{range .Site.Menus.main}}
-    <a class="header__link {{if $.Page.IsMenuCurrent "main" .}} active{{end}}" href="{{.URL}}">{{.Name}}</a>
-  {{end}}
-{{end}}

@@ -4,11 +4,11 @@ date = "2017-05-31"
 slug = "agile-ideal-vs-reality"
 +++
 
-<small>
-_**DISCLAIMER**: This is the internet, a lot of people travel it's seas. This article represents my
+<small><i>
+<b>DISCLAIMER</b>: This is the internet, a lot of people travel it's seas. This article represents my
 own opinion based on my current/past work experience. It is ok if you disagree with me, it's
-actually likely you will._
-</small>
+actually likely you will.
+</i></small>
 
 I'd like to argue that nowadays many companies adopted Agile as their "software development
 methodology" but have greatly diverged from Agile's original intent. Enough so that it's

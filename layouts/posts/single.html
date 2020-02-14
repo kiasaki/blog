@@ -1,47 +1,38 @@
 {{template "partials/header.html" .}}
 
-<main class="main_minimal" role="main">
-  <article class="article__wrapper" role="article">
-      <header>
-        <h1 class="post__title">{{.Title}}</h1>
-        <time class="date" datetime="{{.Date.Format "2 Jan 2006"}}">{{.Date.Format "2 Jan 2006"}}</time>
-      </header>
+<article role="article">
+  <h1 class="f1 ma0">{{.Title}}</h1>
+  <time class="f5 gray" datetime="{{.Date.Format "2 Jan 2006"}}">{{.Date.Format "2 Jan 2006"}}</time>
+  <section class="content pv5">
+    {{.Content}}
+  </section>
+</article>
 
-      <section class="post__content-wrapper">
-        <div class="post__content">
-          {{.Content}}
-        </div>
-      </section>
-  </article>
-
-  <nav class="post__footer" role="navigation">
-    <div class="footer__wrapper">
-      <div class="footer__wrapper-inner">
-        <div class="footer__link-prev">
-          {{if .Prev}}
-            <a class="footer__link-anchor" href="{{.Prev.RelPermalink}}" rel="prev">
-              <object class="footer__link-icon-left">
-                <embed src="/images/icons/arrow-left.svg" />
-              </object>
-              <p class="footer__link-label">Previous</p>
-              <h3 class="footer__title-article">{{.Prev.Title}}</h3>
-            </a>
-          {{end}}
-        </div>
-        {{if .Next}}
-          <div class="footer__link-next">
-            <a class="footer__link-anchor" href="{{.Next.RelPermalink}}" rel="next">
-              <object class="footer__link-icon-right">
-                <embed src="/images/icons/arrow-right.svg" />
-              </object>
-              <p class="footer__link-label">Next</p>
-              <h3 class="footer__title-article">{{.Next.Title}}</h3>
-            </a>
-          </div>
-        {{end}}
-      </div>
+<nav class="post-nav" role="navigation">
+  <div class="post-nav-container flex">
+    <div class="flex-1 relative">
+      {{if .Prev}}
+        <a class="flex flex-column" href="{{.Prev.RelPermalink}}" rel="prev">
+          <object class="post-nav-icon-left">
+            <embed src="/images/icons/arrow-left.svg" />
+          </object>
+          <p class="post-nav-label mb0 f6 b gray">Previous</p>
+          <h3 class="f3">{{.Prev.Title}}</h3>
+        </a>
+      {{end}}
     </div>
-  </nav>
-</main>
+    {{if .Next}}
+      <div class="flex-1 relative tr">
+        <a class="flex flex-column" href="{{.Next.RelPermalink}}" rel="next">
+          <object class="post-nav-icon-right">
+            <embed src="/images/icons/arrow-right.svg" />
+          </object>
+          <p class="post-nav-label mb0 f6 b gray">Next</p>
+          <h3 class="f3">{{.Next.Title}}</h3>
+        </a>
+      </div>
+    {{end}}
+  </div>
+</nav>
 
 {{template "partials/footer.html" .}}

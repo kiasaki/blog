@@ -7,19 +7,22 @@
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="stylesheet" type="text/css" href="/screen.css" />
-  <link rel="stylesheet" type="text/css" href="/global.css" />
+  <link rel="stylesheet" type="text/css" href="/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Cairo:400,700&display=swap" rel="stylesheet">
   <link href="{{with .OutputFormats.Get "RSS"}}{{.RelPermalink}}{{end}}"
     rel="alternate" type="application/rss+xml" title="{{.Site.Title}}" />
 </head>
 <body>
-  <div class="wrapper_minimal">
-    <header class="header" role="banner">
-      <h1 class="header__title">
-        <a title="{{.Site.Title}}" href="{{.Site.BaseURL}}">{{.Site.Title}}</a>
+  <div class="container">
+    <header class="header mb6" role="banner">
+      <h1 class="ma0 f4">
+        <a href="{{.Site.BaseURL}}" class="white bg-primary ph3">{{.Site.Title}}</a>
       </h1>
-      <nav class="header__nav" role="navigation">
-        {{template "partials/navigation.html" .}}
+      <nav class="header-nav" role="navigation">
+        {{if .Site.Menus.main}}
+          {{range .Site.Menus.main}}
+            <a class="{{if $.Page.IsMenuCurrent "main" .}}primary{{end}}" href="{{.URL}}">{{.Name}}</a>
+          {{end}}
+        {{end}}
       </nav>
     </header>

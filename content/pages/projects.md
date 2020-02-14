@@ -3,9 +3,9 @@ title = "Projects"
 slug = "projects"
 +++
 
-<div class="project">
-<h2>PieAdmin</h2>
-<div class="project__images">
+## PieAdmin
+
+<div class="gallery">
   <a href="/images/projects/pieadmin/homepage.png" target="_blank">
     <img src="/images/projects/pieadmin/homepage.png" />
   </a>
@@ -35,11 +35,11 @@ on your important metrics.
 
 <a href="https://www.pieadmin.com/" target="_blank" class="button">Visit</a>
 
-</div>
+---
 
-<div class="project">
-<h2>PlainBackups</h2>
-<div class="project__images">
+## PlainBackups
+
+<div class="gallery">
   <a href="/images/projects/plainbackups/homepage.png" target="_blank">
     <img src="/images/projects/plainbackups/homepage.png" />
   </a>
@@ -63,11 +63,11 @@ Redis .rdb files or user uploaded data.
 
 <a href="https://www.plainbackups.com/" target="_blank" class="button">Visit</a>
 
-</div>
+---
 
-<div class="project">
-<h2>Sanduku</h2>
-<div class="project__images">
+## Sanduku
+
+<div class="gallery">
   <a href="/images/projects/sanduku/view.png" target="_blank">
     <img src="/images/projects/sanduku/view.png" />
   </a>
@@ -82,4 +82,3 @@ and all of your devices will sync up when you get back online.
 
 <a href="https://sanduku.atriumph.com/" target="_blank" class="button">Visit</a>
 
-</div>

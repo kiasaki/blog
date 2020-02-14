@@ -1,9 +1,8 @@
-<nav class="pagination" role="pagination">
+<nav class="flex pv4 mb4" role="pagination">
   {{if .Paginator.HasPrev}}
-    <a class="pagination__link-next pagination__link" href="{{.Paginator.Prev.URL}}">← Previous posts</a>
+    <a class="flex-1" href="{{.Paginator.Prev.URL}}">← Previous posts</a>
   {{end}}
   {{if .Paginator.HasNext}}
-    <a class="pagination__link-prev pagination__link" href="{{.Paginator.Next.URL}}">More posts →</a>
+    <a class="flex-1 tr" href="{{.Paginator.Next.URL}}">More posts →</a>
   {{end}}
-  <div class="clear"></div>
 </nav>
