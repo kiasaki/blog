@@ -3,6 +3,44 @@ title = "Clients"
 slug = "clients"
 +++
 
+## Telefuel
+
+<div class="gallery">
+  <a href="/images/clients/telefuel/homepage.png" target="_blank">
+    <img src="/images/clients/telefuel/homepage.png" />
+  </a>
+  <a href="/images/clients/telefuel/chat.png" target="_blank">
+    <img src="/images/clients/telefuel/chat.png" />
+  </a>
+  <a href="/images/clients/telefuel/workspace.png" target="_blank">
+    <img src="/images/clients/telefuel/workspace.png" />
+  </a>
+  <a href="/images/clients/telefuel/billing.png" target="_blank">
+    <img src="/images/clients/telefuel/billing.png" />
+  </a>
+</div>
+
+**Project Type:** Building the app from the 1st prototype to launch & more<br/>
+**Technologies:** `Golang`, `PostgreSQL`, `Websockets`, `React`, `Electron`,
+  `Flutter`, `Dart`, `Android`, `iOS`, `WebAssembly`, `WebWorkers`, `TG Proto API`
+
+_I've joined the 2 founders of Telefuel at the very beginning of their journey
+to help them build their prototype. Together, over the course of 1+ year, I've
+helped them interatively build an alternative Telegram client for business
+users._
+
+On that journey we started by building a first prototype of the client as a
+React app using tdlib (via WebAssembly). Later, in order to ship a desktop app
+we packaged this initial web app using Electron. Next, we looked to get a mobile
+version of the client, a first prototype was built using React native but we
+didn't think the performance and level of polish was good enough compared to
+the competition (official clients) so we built a Flutter version of the app
+for iOS and Android. While all of this was happening we kept adding new
+collaboration features enabled by our Go backend which every client was connected
+to over websocket.
+
+---
+
 ## CrewFire
 
 <div class="gallery">

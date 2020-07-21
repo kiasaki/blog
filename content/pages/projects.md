@@ -68,6 +68,9 @@ Redis .rdb files or user uploaded data.
 ## Sanduku
 
 <div class="gallery">
+  <a href="/images/projects/sanduku/home.png" target="_blank">
+    <img src="/images/projects/sanduku/home.png" />
+  </a>
   <a href="/images/projects/sanduku/view.png" target="_blank">
     <img src="/images/projects/sanduku/view.png" />
   </a>
